@@ -2,3601 +2,6001 @@
   {
     "id": 1000001,
     "kind": "ANIME",
-    "title": "Title 1",
-    "year": 2001,
-    "score": 61,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 21
+    "title": "Anime 1",
+    "year": 1991,
+    "score": 56,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 21,
+    "complete": 1
   },
   {
     "id": 1000002,
-    "kind": "MANGA",
-    "title": "Title 2",
-    "year": 2002,
-    "score": 62,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 22
+    "kind": "ANIME",
+    "title": "Anime 2",
+    "year": 1992,
+    "score": 57,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 22,
+    "complete": 1
   },
   {
     "id": 1000003,
     "kind": "ANIME",
-    "title": "Title 3",
-    "year": 2003,
-    "score": 63,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 23
+    "title": "Anime 3",
+    "year": 1993,
+    "score": 58,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 23,
+    "complete": 1
   },
   {
     "id": 1000004,
-    "kind": "MANGA",
-    "title": "Title 4",
-    "year": 2004,
-    "score": 64,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 24
+    "kind": "ANIME",
+    "title": "Anime 4",
+    "year": 1994,
+    "score": 59,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 24,
+    "complete": 1
   },
   {
     "id": 1000005,
     "kind": "ANIME",
-    "title": "Title 5",
-    "year": 2005,
-    "score": 65,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 25
+    "title": "Anime 5",
+    "year": 1995,
+    "score": 60,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 25,
+    "complete": 1
   },
   {
     "id": 1000006,
-    "kind": "MANGA",
-    "title": "Title 6",
-    "year": 2006,
-    "score": 66,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 26
+    "kind": "ANIME",
+    "title": "Anime 6",
+    "year": 1996,
+    "score": 61,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 26,
+    "complete": 1
   },
   {
     "id": 1000007,
     "kind": "ANIME",
-    "title": "Title 7",
-    "year": 2007,
-    "score": 67,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 27
+    "title": "Anime 7",
+    "year": 1997,
+    "score": 62,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 27,
+    "complete": 1
   },
   {
     "id": 1000008,
-    "kind": "MANGA",
-    "title": "Title 8",
-    "year": 2008,
-    "score": 68,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 28
+    "kind": "ANIME",
+    "title": "Anime 8",
+    "year": 1998,
+    "score": 63,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 28,
+    "complete": 1
   },
   {
     "id": 1000009,
     "kind": "ANIME",
-    "title": "Title 9",
-    "year": 2009,
-    "score": 69,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 29
+    "title": "Anime 9",
+    "year": 1999,
+    "score": 64,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 29,
+    "complete": 1
   },
   {
     "id": 1000010,
-    "kind": "MANGA",
-    "title": "Title 10",
-    "year": 2010,
-    "score": 70,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 30
+    "kind": "ANIME",
+    "title": "Anime 10",
+    "year": 2000,
+    "score": 65,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 30,
+    "complete": 1
   },
   {
     "id": 1000011,
     "kind": "ANIME",
-    "title": "Title 11",
-    "year": 2011,
-    "score": 71,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 31
+    "title": "Anime 11",
+    "year": 2001,
+    "score": 66,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 31,
+    "complete": 1
   },
   {
     "id": 1000012,
-    "kind": "MANGA",
-    "title": "Title 12",
-    "year": 2012,
-    "score": 72,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 32
+    "kind": "ANIME",
+    "title": "Anime 12",
+    "year": 2002,
+    "score": 67,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 32,
+    "complete": 1
   },
   {
     "id": 1000013,
     "kind": "ANIME",
-    "title": "Title 13",
-    "year": 2013,
-    "score": 73,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 33
+    "title": "Anime 13",
+    "year": 2003,
+    "score": 68,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 33,
+    "complete": 1
   },
   {
     "id": 1000014,
-    "kind": "MANGA",
-    "title": "Title 14",
-    "year": 2014,
-    "score": 74,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 34
+    "kind": "ANIME",
+    "title": "Anime 14",
+    "year": 2004,
+    "score": 69,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 34,
+    "complete": 1
   },
   {
     "id": 1000015,
     "kind": "ANIME",
-    "title": "Title 15",
-    "year": 2015,
-    "score": 75,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 35
+    "title": "Anime 15",
+    "year": 2005,
+    "score": 70,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 35,
+    "complete": 1
   },
   {
     "id": 1000016,
-    "kind": "MANGA",
-    "title": "Title 16",
-    "year": 2016,
-    "score": 76,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 36
+    "kind": "ANIME",
+    "title": "Anime 16",
+    "year": 2006,
+    "score": 71,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 36,
+    "complete": 1
   },
   {
     "id": 1000017,
     "kind": "ANIME",
-    "title": "Title 17",
-    "year": 2017,
-    "score": 77,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 37
+    "title": "Anime 17",
+    "year": 2007,
+    "score": 72,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 37,
+    "complete": 1
   },
   {
     "id": 1000018,
-    "kind": "MANGA",
-    "title": "Title 18",
-    "year": 2018,
-    "score": 78,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 38
+    "kind": "ANIME",
+    "title": "Anime 18",
+    "year": 2008,
+    "score": 73,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 38,
+    "complete": 1
   },
   {
     "id": 1000019,
     "kind": "ANIME",
-    "title": "Title 19",
-    "year": 2019,
-    "score": 79,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 39
+    "title": "Anime 19",
+    "year": 2009,
+    "score": 74,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 39,
+    "complete": 1
   },
   {
     "id": 1000020,
-    "kind": "MANGA",
-    "title": "Title 20",
-    "year": 2020,
-    "score": 80,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 40
+    "kind": "ANIME",
+    "title": "Anime 20",
+    "year": 2010,
+    "score": 75,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 40,
+    "complete": 1
   },
   {
     "id": 1000021,
     "kind": "ANIME",
-    "title": "Title 21",
-    "year": 2021,
-    "score": 81,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 41
+    "title": "Anime 21",
+    "year": 2011,
+    "score": 76,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 41,
+    "complete": 1
   },
   {
     "id": 1000022,
-    "kind": "MANGA",
-    "title": "Title 22",
-    "year": 2022,
-    "score": 82,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 42
+    "kind": "ANIME",
+    "title": "Anime 22",
+    "year": 2012,
+    "score": 77,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 42,
+    "complete": 1
   },
   {
     "id": 1000023,
     "kind": "ANIME",
-    "title": "Title 23",
-    "year": 2023,
-    "score": 83,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 43
+    "title": "Anime 23",
+    "year": 2013,
+    "score": 78,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 43,
+    "complete": 1
   },
   {
     "id": 1000024,
-    "kind": "MANGA",
-    "title": "Title 24",
-    "year": 2000,
-    "score": 84,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 44
+    "kind": "ANIME",
+    "title": "Anime 24",
+    "year": 2014,
+    "score": 79,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 44,
+    "complete": 1
   },
   {
     "id": 1000025,
     "kind": "ANIME",
-    "title": "Title 25",
-    "year": 2001,
-    "score": 85,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 45
+    "title": "Anime 25",
+    "year": 2015,
+    "score": 80,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 45,
+    "complete": 1
   },
   {
     "id": 1000026,
-    "kind": "MANGA",
-    "title": "Title 26",
-    "year": 2002,
-    "score": 86,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 46
+    "kind": "ANIME",
+    "title": "Anime 26",
+    "year": 2016,
+    "score": 81,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 46,
+    "complete": 1
   },
   {
     "id": 1000027,
     "kind": "ANIME",
-    "title": "Title 27",
-    "year": 2003,
-    "score": 87,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 47
+    "title": "Anime 27",
+    "year": 2017,
+    "score": 82,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 47,
+    "complete": 1
   },
   {
     "id": 1000028,
-    "kind": "MANGA",
-    "title": "Title 28",
-    "year": 2004,
-    "score": 88,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 48
+    "kind": "ANIME",
+    "title": "Anime 28",
+    "year": 2018,
+    "score": 83,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 48,
+    "complete": 1
   },
   {
     "id": 1000029,
     "kind": "ANIME",
-    "title": "Title 29",
-    "year": 2005,
-    "score": 89,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 49
+    "title": "Anime 29",
+    "year": 2019,
+    "score": 84,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 49,
+    "complete": 1
   },
   {
     "id": 1000030,
-    "kind": "MANGA",
-    "title": "Title 30",
-    "year": 2006,
-    "score": 90,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 50
+    "kind": "ANIME",
+    "title": "Anime 30",
+    "year": 2020,
+    "score": 85,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 50,
+    "complete": 1
   },
   {
     "id": 1000031,
     "kind": "ANIME",
-    "title": "Title 31",
-    "year": 2007,
-    "score": 91,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 51
+    "title": "Anime 31",
+    "year": 2021,
+    "score": 86,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 51,
+    "complete": 1
   },
   {
     "id": 1000032,
-    "kind": "MANGA",
-    "title": "Title 32",
-    "year": 2008,
-    "score": 92,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 52
+    "kind": "ANIME",
+    "title": "Anime 32",
+    "year": 2022,
+    "score": 87,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 52,
+    "complete": 1
   },
   {
     "id": 1000033,
     "kind": "ANIME",
-    "title": "Title 33",
-    "year": 2009,
-    "score": 93,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 53
+    "title": "Anime 33",
+    "year": 2023,
+    "score": 88,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 53,
+    "complete": 1
   },
   {
     "id": 1000034,
-    "kind": "MANGA",
-    "title": "Title 34",
-    "year": 2010,
-    "score": 94,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 54
+    "kind": "ANIME",
+    "title": "Anime 34",
+    "year": 2024,
+    "score": 89,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 54,
+    "complete": 1
   },
   {
     "id": 1000035,
     "kind": "ANIME",
-    "title": "Title 35",
-    "year": 2011,
-    "score": 60,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 55
+    "title": "Anime 35",
+    "year": 1990,
+    "score": 90,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 55,
+    "complete": 1
   },
   {
     "id": 1000036,
-    "kind": "MANGA",
-    "title": "Title 36",
-    "year": 2012,
-    "score": 61,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 56
+    "kind": "ANIME",
+    "title": "Anime 36",
+    "year": 1991,
+    "score": 91,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 56,
+    "complete": 1
   },
   {
     "id": 1000037,
     "kind": "ANIME",
-    "title": "Title 37",
-    "year": 2013,
-    "score": 62,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 57
+    "title": "Anime 37",
+    "year": 1992,
+    "score": 92,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 57,
+    "complete": 1
   },
   {
     "id": 1000038,
-    "kind": "MANGA",
-    "title": "Title 38",
-    "year": 2014,
-    "score": 63,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 58
+    "kind": "ANIME",
+    "title": "Anime 38",
+    "year": 1993,
+    "score": 93,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 58,
+    "complete": 1
   },
   {
     "id": 1000039,
     "kind": "ANIME",
-    "title": "Title 39",
-    "year": 2015,
-    "score": 64,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 59
+    "title": "Anime 39",
+    "year": 1994,
+    "score": 94,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 59,
+    "complete": 1
   },
   {
     "id": 1000040,
-    "kind": "MANGA",
-    "title": "Title 40",
-    "year": 2016,
-    "score": 65,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 60
+    "kind": "ANIME",
+    "title": "Anime 40",
+    "year": 1995,
+    "score": 95,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 60,
+    "complete": 1
   },
   {
     "id": 1000041,
     "kind": "ANIME",
-    "title": "Title 41",
-    "year": 2017,
-    "score": 66,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 61
+    "title": "Anime 41",
+    "year": 1996,
+    "score": 96,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 61,
+    "complete": 1
   },
   {
     "id": 1000042,
-    "kind": "MANGA",
-    "title": "Title 42",
-    "year": 2018,
-    "score": 67,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 62
+    "kind": "ANIME",
+    "title": "Anime 42",
+    "year": 1997,
+    "score": 97,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 62,
+    "complete": 1
   },
   {
     "id": 1000043,
     "kind": "ANIME",
-    "title": "Title 43",
-    "year": 2019,
-    "score": 68,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 63
+    "title": "Anime 43",
+    "year": 1998,
+    "score": 98,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 63,
+    "complete": 1
   },
   {
     "id": 1000044,
-    "kind": "MANGA",
-    "title": "Title 44",
-    "year": 2020,
-    "score": 69,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 64
+    "kind": "ANIME",
+    "title": "Anime 44",
+    "year": 1999,
+    "score": 99,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 64,
+    "complete": 1
   },
   {
     "id": 1000045,
     "kind": "ANIME",
-    "title": "Title 45",
-    "year": 2021,
-    "score": 70,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 65
+    "title": "Anime 45",
+    "year": 2000,
+    "score": 55,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 65,
+    "complete": 1
   },
   {
     "id": 1000046,
-    "kind": "MANGA",
-    "title": "Title 46",
-    "year": 2022,
-    "score": 71,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 66
+    "kind": "ANIME",
+    "title": "Anime 46",
+    "year": 2001,
+    "score": 56,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 66,
+    "complete": 1
   },
   {
     "id": 1000047,
     "kind": "ANIME",
-    "title": "Title 47",
-    "year": 2023,
-    "score": 72,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 67
+    "title": "Anime 47",
+    "year": 2002,
+    "score": 57,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 67,
+    "complete": 1
   },
   {
     "id": 1000048,
-    "kind": "MANGA",
-    "title": "Title 48",
-    "year": 2000,
-    "score": 73,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 68
+    "kind": "ANIME",
+    "title": "Anime 48",
+    "year": 2003,
+    "score": 58,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 68,
+    "complete": 1
   },
   {
     "id": 1000049,
     "kind": "ANIME",
-    "title": "Title 49",
-    "year": 2001,
-    "score": 74,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 69
+    "title": "Anime 49",
+    "year": 2004,
+    "score": 59,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 69,
+    "complete": 1
   },
   {
     "id": 1000050,
-    "kind": "MANGA",
-    "title": "Title 50",
-    "year": 2002,
-    "score": 75,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 70
+    "kind": "ANIME",
+    "title": "Anime 50",
+    "year": 2005,
+    "score": 60,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 70,
+    "complete": 1
   },
   {
     "id": 1000051,
     "kind": "ANIME",
-    "title": "Title 51",
-    "year": 2003,
-    "score": 76,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 71
+    "title": "Anime 51",
+    "year": 2006,
+    "score": 61,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 71,
+    "complete": 1
   },
   {
     "id": 1000052,
-    "kind": "MANGA",
-    "title": "Title 52",
-    "year": 2004,
-    "score": 77,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 72
+    "kind": "ANIME",
+    "title": "Anime 52",
+    "year": 2007,
+    "score": 62,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 72,
+    "complete": 1
   },
   {
     "id": 1000053,
     "kind": "ANIME",
-    "title": "Title 53",
-    "year": 2005,
-    "score": 78,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 73
+    "title": "Anime 53",
+    "year": 2008,
+    "score": 63,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 73,
+    "complete": 1
   },
   {
     "id": 1000054,
-    "kind": "MANGA",
-    "title": "Title 54",
-    "year": 2006,
-    "score": 79,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 74
+    "kind": "ANIME",
+    "title": "Anime 54",
+    "year": 2009,
+    "score": 64,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 74,
+    "complete": 1
   },
   {
     "id": 1000055,
     "kind": "ANIME",
-    "title": "Title 55",
-    "year": 2007,
-    "score": 80,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 75
+    "title": "Anime 55",
+    "year": 2010,
+    "score": 65,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 75,
+    "complete": 1
   },
   {
     "id": 1000056,
-    "kind": "MANGA",
-    "title": "Title 56",
-    "year": 2008,
-    "score": 81,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 76
+    "kind": "ANIME",
+    "title": "Anime 56",
+    "year": 2011,
+    "score": 66,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 76,
+    "complete": 1
   },
   {
     "id": 1000057,
     "kind": "ANIME",
-    "title": "Title 57",
-    "year": 2009,
-    "score": 82,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 77
+    "title": "Anime 57",
+    "year": 2012,
+    "score": 67,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 77,
+    "complete": 1
   },
   {
     "id": 1000058,
-    "kind": "MANGA",
-    "title": "Title 58",
-    "year": 2010,
-    "score": 83,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 78
+    "kind": "ANIME",
+    "title": "Anime 58",
+    "year": 2013,
+    "score": 68,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 78,
+    "complete": 1
   },
   {
     "id": 1000059,
     "kind": "ANIME",
-    "title": "Title 59",
-    "year": 2011,
-    "score": 84,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 79
+    "title": "Anime 59",
+    "year": 2014,
+    "score": 69,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 79,
+    "complete": 1
   },
   {
     "id": 1000060,
-    "kind": "MANGA",
-    "title": "Title 60",
-    "year": 2012,
-    "score": 85,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 80
+    "kind": "ANIME",
+    "title": "Anime 60",
+    "year": 2015,
+    "score": 70,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 80,
+    "complete": 1
   },
   {
     "id": 1000061,
     "kind": "ANIME",
-    "title": "Title 61",
-    "year": 2013,
-    "score": 86,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 81
+    "title": "Anime 61",
+    "year": 2016,
+    "score": 71,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 81,
+    "complete": 1
   },
   {
     "id": 1000062,
-    "kind": "MANGA",
-    "title": "Title 62",
-    "year": 2014,
-    "score": 87,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 82
+    "kind": "ANIME",
+    "title": "Anime 62",
+    "year": 2017,
+    "score": 72,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 82,
+    "complete": 1
   },
   {
     "id": 1000063,
     "kind": "ANIME",
-    "title": "Title 63",
-    "year": 2015,
-    "score": 88,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 83
+    "title": "Anime 63",
+    "year": 2018,
+    "score": 73,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 83,
+    "complete": 1
   },
   {
     "id": 1000064,
-    "kind": "MANGA",
-    "title": "Title 64",
-    "year": 2016,
-    "score": 89,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 84
+    "kind": "ANIME",
+    "title": "Anime 64",
+    "year": 2019,
+    "score": 74,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 84,
+    "complete": 1
   },
   {
     "id": 1000065,
     "kind": "ANIME",
-    "title": "Title 65",
-    "year": 2017,
-    "score": 90,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 85
+    "title": "Anime 65",
+    "year": 2020,
+    "score": 75,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 85,
+    "complete": 1
   },
   {
     "id": 1000066,
-    "kind": "MANGA",
-    "title": "Title 66",
-    "year": 2018,
-    "score": 91,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 86
+    "kind": "ANIME",
+    "title": "Anime 66",
+    "year": 2021,
+    "score": 76,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 86,
+    "complete": 1
   },
   {
     "id": 1000067,
     "kind": "ANIME",
-    "title": "Title 67",
-    "year": 2019,
-    "score": 92,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 87
+    "title": "Anime 67",
+    "year": 2022,
+    "score": 77,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 87,
+    "complete": 1
   },
   {
     "id": 1000068,
-    "kind": "MANGA",
-    "title": "Title 68",
-    "year": 2020,
-    "score": 93,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 88
+    "kind": "ANIME",
+    "title": "Anime 68",
+    "year": 2023,
+    "score": 78,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 88,
+    "complete": 1
   },
   {
     "id": 1000069,
     "kind": "ANIME",
-    "title": "Title 69",
-    "year": 2021,
-    "score": 94,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 89
+    "title": "Anime 69",
+    "year": 2024,
+    "score": 79,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 89,
+    "complete": 1
   },
   {
     "id": 1000070,
-    "kind": "MANGA",
-    "title": "Title 70",
-    "year": 2022,
-    "score": 60,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 90
+    "kind": "ANIME",
+    "title": "Anime 70",
+    "year": 1990,
+    "score": 80,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 90,
+    "complete": 1
   },
   {
     "id": 1000071,
     "kind": "ANIME",
-    "title": "Title 71",
-    "year": 2023,
-    "score": 61,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 91
+    "title": "Anime 71",
+    "year": 1991,
+    "score": 81,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 91,
+    "complete": 1
   },
   {
     "id": 1000072,
-    "kind": "MANGA",
-    "title": "Title 72",
-    "year": 2000,
-    "score": 62,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 92
+    "kind": "ANIME",
+    "title": "Anime 72",
+    "year": 1992,
+    "score": 82,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 92,
+    "complete": 1
   },
   {
     "id": 1000073,
     "kind": "ANIME",
-    "title": "Title 73",
-    "year": 2001,
-    "score": 63,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 93
+    "title": "Anime 73",
+    "year": 1993,
+    "score": 83,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 93,
+    "complete": 1
   },
   {
     "id": 1000074,
-    "kind": "MANGA",
-    "title": "Title 74",
-    "year": 2002,
-    "score": 64,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 94
+    "kind": "ANIME",
+    "title": "Anime 74",
+    "year": 1994,
+    "score": 84,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 94,
+    "complete": 1
   },
   {
     "id": 1000075,
     "kind": "ANIME",
-    "title": "Title 75",
-    "year": 2003,
-    "score": 65,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 95
+    "title": "Anime 75",
+    "year": 1995,
+    "score": 85,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 95,
+    "complete": 1
   },
   {
     "id": 1000076,
-    "kind": "MANGA",
-    "title": "Title 76",
-    "year": 2004,
-    "score": 66,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 96
+    "kind": "ANIME",
+    "title": "Anime 76",
+    "year": 1996,
+    "score": 86,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 96,
+    "complete": 1
   },
   {
     "id": 1000077,
     "kind": "ANIME",
-    "title": "Title 77",
-    "year": 2005,
-    "score": 67,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 97
+    "title": "Anime 77",
+    "year": 1997,
+    "score": 87,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 97,
+    "complete": 1
   },
   {
     "id": 1000078,
-    "kind": "MANGA",
-    "title": "Title 78",
-    "year": 2006,
-    "score": 68,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 98
+    "kind": "ANIME",
+    "title": "Anime 78",
+    "year": 1998,
+    "score": 88,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 98,
+    "complete": 1
   },
   {
     "id": 1000079,
     "kind": "ANIME",
-    "title": "Title 79",
-    "year": 2007,
-    "score": 69,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 99
+    "title": "Anime 79",
+    "year": 1999,
+    "score": 89,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 99,
+    "complete": 1
   },
   {
     "id": 1000080,
-    "kind": "MANGA",
-    "title": "Title 80",
-    "year": 2008,
-    "score": 70,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 100
+    "kind": "ANIME",
+    "title": "Anime 80",
+    "year": 2000,
+    "score": 90,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 100,
+    "complete": 1
   },
   {
     "id": 1000081,
     "kind": "ANIME",
-    "title": "Title 81",
-    "year": 2009,
-    "score": 71,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 101
+    "title": "Anime 81",
+    "year": 2001,
+    "score": 91,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 101,
+    "complete": 1
   },
   {
     "id": 1000082,
-    "kind": "MANGA",
-    "title": "Title 82",
-    "year": 2010,
-    "score": 72,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 102
+    "kind": "ANIME",
+    "title": "Anime 82",
+    "year": 2002,
+    "score": 92,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 102,
+    "complete": 1
   },
   {
     "id": 1000083,
     "kind": "ANIME",
-    "title": "Title 83",
-    "year": 2011,
-    "score": 73,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 103
+    "title": "Anime 83",
+    "year": 2003,
+    "score": 93,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 103,
+    "complete": 1
   },
   {
     "id": 1000084,
-    "kind": "MANGA",
-    "title": "Title 84",
-    "year": 2012,
-    "score": 74,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 104
+    "kind": "ANIME",
+    "title": "Anime 84",
+    "year": 2004,
+    "score": 94,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 104,
+    "complete": 1
   },
   {
     "id": 1000085,
     "kind": "ANIME",
-    "title": "Title 85",
-    "year": 2013,
-    "score": 75,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 105
+    "title": "Anime 85",
+    "year": 2005,
+    "score": 95,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 105,
+    "complete": 1
   },
   {
     "id": 1000086,
-    "kind": "MANGA",
-    "title": "Title 86",
-    "year": 2014,
-    "score": 76,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 106
+    "kind": "ANIME",
+    "title": "Anime 86",
+    "year": 2006,
+    "score": 96,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 106,
+    "complete": 1
   },
   {
     "id": 1000087,
     "kind": "ANIME",
-    "title": "Title 87",
-    "year": 2015,
-    "score": 77,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 107
+    "title": "Anime 87",
+    "year": 2007,
+    "score": 97,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 107,
+    "complete": 1
   },
   {
     "id": 1000088,
-    "kind": "MANGA",
-    "title": "Title 88",
-    "year": 2016,
-    "score": 78,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 108
+    "kind": "ANIME",
+    "title": "Anime 88",
+    "year": 2008,
+    "score": 98,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 108,
+    "complete": 1
   },
   {
     "id": 1000089,
     "kind": "ANIME",
-    "title": "Title 89",
-    "year": 2017,
-    "score": 79,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 109
+    "title": "Anime 89",
+    "year": 2009,
+    "score": 99,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 109,
+    "complete": 1
   },
   {
     "id": 1000090,
-    "kind": "MANGA",
-    "title": "Title 90",
-    "year": 2018,
-    "score": 80,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 110
+    "kind": "ANIME",
+    "title": "Anime 90",
+    "year": 2010,
+    "score": 55,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 110,
+    "complete": 1
   },
   {
     "id": 1000091,
     "kind": "ANIME",
-    "title": "Title 91",
-    "year": 2019,
-    "score": 81,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 111
+    "title": "Anime 91",
+    "year": 2011,
+    "score": 56,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 111,
+    "complete": 1
   },
   {
     "id": 1000092,
-    "kind": "MANGA",
-    "title": "Title 92",
-    "year": 2020,
-    "score": 82,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 112
+    "kind": "ANIME",
+    "title": "Anime 92",
+    "year": 2012,
+    "score": 57,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 112,
+    "complete": 1
   },
   {
     "id": 1000093,
     "kind": "ANIME",
-    "title": "Title 93",
-    "year": 2021,
-    "score": 83,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 113
+    "title": "Anime 93",
+    "year": 2013,
+    "score": 58,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 113,
+    "complete": 1
   },
   {
     "id": 1000094,
-    "kind": "MANGA",
-    "title": "Title 94",
-    "year": 2022,
-    "score": 84,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 114
+    "kind": "ANIME",
+    "title": "Anime 94",
+    "year": 2014,
+    "score": 59,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 114,
+    "complete": 1
   },
   {
     "id": 1000095,
     "kind": "ANIME",
-    "title": "Title 95",
-    "year": 2023,
-    "score": 85,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 115
+    "title": "Anime 95",
+    "year": 2015,
+    "score": 60,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 115,
+    "complete": 1
   },
   {
     "id": 1000096,
-    "kind": "MANGA",
-    "title": "Title 96",
-    "year": 2000,
-    "score": 86,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 116
+    "kind": "ANIME",
+    "title": "Anime 96",
+    "year": 2016,
+    "score": 61,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 116,
+    "complete": 1
   },
   {
     "id": 1000097,
     "kind": "ANIME",
-    "title": "Title 97",
-    "year": 2001,
-    "score": 87,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 117
+    "title": "Anime 97",
+    "year": 2017,
+    "score": 62,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 117,
+    "complete": 1
   },
   {
     "id": 1000098,
-    "kind": "MANGA",
-    "title": "Title 98",
-    "year": 2002,
-    "score": 88,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 118
+    "kind": "ANIME",
+    "title": "Anime 98",
+    "year": 2018,
+    "score": 63,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 118,
+    "complete": 1
   },
   {
     "id": 1000099,
     "kind": "ANIME",
-    "title": "Title 99",
-    "year": 2003,
-    "score": 89,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 119
+    "title": "Anime 99",
+    "year": 2019,
+    "score": 64,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 119,
+    "complete": 1
   },
   {
     "id": 1000100,
-    "kind": "MANGA",
-    "title": "Title 100",
-    "year": 2004,
-    "score": 90,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 120
+    "kind": "ANIME",
+    "title": "Anime 100",
+    "year": 2020,
+    "score": 65,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 20,
+    "complete": 1
   },
   {
     "id": 1000101,
     "kind": "ANIME",
-    "title": "Title 101",
-    "year": 2005,
-    "score": 91,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 121
+    "title": "Anime 101",
+    "year": 2021,
+    "score": 66,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 21,
+    "complete": 1
   },
   {
     "id": 1000102,
-    "kind": "MANGA",
-    "title": "Title 102",
-    "year": 2006,
-    "score": 92,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 122
+    "kind": "ANIME",
+    "title": "Anime 102",
+    "year": 2022,
+    "score": 67,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 22,
+    "complete": 1
   },
   {
     "id": 1000103,
     "kind": "ANIME",
-    "title": "Title 103",
-    "year": 2007,
-    "score": 93,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 123
+    "title": "Anime 103",
+    "year": 2023,
+    "score": 68,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 23,
+    "complete": 1
   },
   {
     "id": 1000104,
-    "kind": "MANGA",
-    "title": "Title 104",
-    "year": 2008,
-    "score": 94,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 124
+    "kind": "ANIME",
+    "title": "Anime 104",
+    "year": 2024,
+    "score": 69,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 24,
+    "complete": 1
   },
   {
     "id": 1000105,
     "kind": "ANIME",
-    "title": "Title 105",
-    "year": 2009,
-    "score": 60,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 125
+    "title": "Anime 105",
+    "year": 1990,
+    "score": 70,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 25,
+    "complete": 1
   },
   {
     "id": 1000106,
-    "kind": "MANGA",
-    "title": "Title 106",
-    "year": 2010,
-    "score": 61,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 126
+    "kind": "ANIME",
+    "title": "Anime 106",
+    "year": 1991,
+    "score": 71,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 26,
+    "complete": 1
   },
   {
     "id": 1000107,
     "kind": "ANIME",
-    "title": "Title 107",
-    "year": 2011,
-    "score": 62,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 127
+    "title": "Anime 107",
+    "year": 1992,
+    "score": 72,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 27,
+    "complete": 1
   },
   {
     "id": 1000108,
-    "kind": "MANGA",
-    "title": "Title 108",
-    "year": 2012,
-    "score": 63,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 128
+    "kind": "ANIME",
+    "title": "Anime 108",
+    "year": 1993,
+    "score": 73,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 28,
+    "complete": 1
   },
   {
     "id": 1000109,
     "kind": "ANIME",
-    "title": "Title 109",
-    "year": 2013,
-    "score": 64,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 129
+    "title": "Anime 109",
+    "year": 1994,
+    "score": 74,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 29,
+    "complete": 1
   },
   {
     "id": 1000110,
-    "kind": "MANGA",
-    "title": "Title 110",
-    "year": 2014,
-    "score": 65,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 130
+    "kind": "ANIME",
+    "title": "Anime 110",
+    "year": 1995,
+    "score": 75,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 30,
+    "complete": 1
   },
   {
     "id": 1000111,
     "kind": "ANIME",
-    "title": "Title 111",
-    "year": 2015,
-    "score": 66,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 131
+    "title": "Anime 111",
+    "year": 1996,
+    "score": 76,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 31,
+    "complete": 1
   },
   {
     "id": 1000112,
-    "kind": "MANGA",
-    "title": "Title 112",
-    "year": 2016,
-    "score": 67,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 132
+    "kind": "ANIME",
+    "title": "Anime 112",
+    "year": 1997,
+    "score": 77,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 32,
+    "complete": 1
   },
   {
     "id": 1000113,
     "kind": "ANIME",
-    "title": "Title 113",
-    "year": 2017,
-    "score": 68,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 133
+    "title": "Anime 113",
+    "year": 1998,
+    "score": 78,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 33,
+    "complete": 1
   },
   {
     "id": 1000114,
-    "kind": "MANGA",
-    "title": "Title 114",
-    "year": 2018,
-    "score": 69,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 134
+    "kind": "ANIME",
+    "title": "Anime 114",
+    "year": 1999,
+    "score": 79,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 34,
+    "complete": 1
   },
   {
     "id": 1000115,
     "kind": "ANIME",
-    "title": "Title 115",
-    "year": 2019,
-    "score": 70,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 135
+    "title": "Anime 115",
+    "year": 2000,
+    "score": 80,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 35,
+    "complete": 1
   },
   {
     "id": 1000116,
-    "kind": "MANGA",
-    "title": "Title 116",
-    "year": 2020,
-    "score": 71,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 136
+    "kind": "ANIME",
+    "title": "Anime 116",
+    "year": 2001,
+    "score": 81,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 36,
+    "complete": 1
   },
   {
     "id": 1000117,
     "kind": "ANIME",
-    "title": "Title 117",
-    "year": 2021,
-    "score": 72,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 137
+    "title": "Anime 117",
+    "year": 2002,
+    "score": 82,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 37,
+    "complete": 1
   },
   {
     "id": 1000118,
-    "kind": "MANGA",
-    "title": "Title 118",
-    "year": 2022,
-    "score": 73,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 138
+    "kind": "ANIME",
+    "title": "Anime 118",
+    "year": 2003,
+    "score": 83,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 38,
+    "complete": 1
   },
   {
     "id": 1000119,
     "kind": "ANIME",
-    "title": "Title 119",
-    "year": 2023,
-    "score": 74,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 139
+    "title": "Anime 119",
+    "year": 2004,
+    "score": 84,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 39,
+    "complete": 1
   },
   {
     "id": 1000120,
-    "kind": "MANGA",
-    "title": "Title 120",
-    "year": 2000,
-    "score": 75,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 140
+    "kind": "ANIME",
+    "title": "Anime 120",
+    "year": 2005,
+    "score": 85,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 40,
+    "complete": 1
   },
   {
     "id": 1000121,
     "kind": "ANIME",
-    "title": "Title 121",
-    "year": 2001,
-    "score": 76,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 141
+    "title": "Anime 121",
+    "year": 2006,
+    "score": 86,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 41,
+    "complete": 1
   },
   {
     "id": 1000122,
-    "kind": "MANGA",
-    "title": "Title 122",
-    "year": 2002,
-    "score": 77,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 142
+    "kind": "ANIME",
+    "title": "Anime 122",
+    "year": 2007,
+    "score": 87,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 42,
+    "complete": 1
   },
   {
     "id": 1000123,
     "kind": "ANIME",
-    "title": "Title 123",
-    "year": 2003,
-    "score": 78,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 143
+    "title": "Anime 123",
+    "year": 2008,
+    "score": 88,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 43,
+    "complete": 1
   },
   {
     "id": 1000124,
-    "kind": "MANGA",
-    "title": "Title 124",
-    "year": 2004,
-    "score": 79,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 144
+    "kind": "ANIME",
+    "title": "Anime 124",
+    "year": 2009,
+    "score": 89,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 44,
+    "complete": 1
   },
   {
     "id": 1000125,
     "kind": "ANIME",
-    "title": "Title 125",
-    "year": 2005,
-    "score": 80,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 145
+    "title": "Anime 125",
+    "year": 2010,
+    "score": 90,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 45,
+    "complete": 1
   },
   {
     "id": 1000126,
-    "kind": "MANGA",
-    "title": "Title 126",
-    "year": 2006,
-    "score": 81,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 146
+    "kind": "ANIME",
+    "title": "Anime 126",
+    "year": 2011,
+    "score": 91,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 46,
+    "complete": 1
   },
   {
     "id": 1000127,
     "kind": "ANIME",
-    "title": "Title 127",
-    "year": 2007,
-    "score": 82,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 147
+    "title": "Anime 127",
+    "year": 2012,
+    "score": 92,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 47,
+    "complete": 1
   },
   {
     "id": 1000128,
-    "kind": "MANGA",
-    "title": "Title 128",
-    "year": 2008,
-    "score": 83,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 148
+    "kind": "ANIME",
+    "title": "Anime 128",
+    "year": 2013,
+    "score": 93,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 48,
+    "complete": 1
   },
   {
     "id": 1000129,
     "kind": "ANIME",
-    "title": "Title 129",
-    "year": 2009,
-    "score": 84,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 149
+    "title": "Anime 129",
+    "year": 2014,
+    "score": 94,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 49,
+    "complete": 1
   },
   {
     "id": 1000130,
-    "kind": "MANGA",
-    "title": "Title 130",
-    "year": 2010,
-    "score": 85,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 150
+    "kind": "ANIME",
+    "title": "Anime 130",
+    "year": 2015,
+    "score": 95,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 50,
+    "complete": 1
   },
   {
     "id": 1000131,
     "kind": "ANIME",
-    "title": "Title 131",
-    "year": 2011,
-    "score": 86,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 151
+    "title": "Anime 131",
+    "year": 2016,
+    "score": 96,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 51,
+    "complete": 1
   },
   {
     "id": 1000132,
-    "kind": "MANGA",
-    "title": "Title 132",
-    "year": 2012,
-    "score": 87,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 152
+    "kind": "ANIME",
+    "title": "Anime 132",
+    "year": 2017,
+    "score": 97,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 52,
+    "complete": 1
   },
   {
     "id": 1000133,
     "kind": "ANIME",
-    "title": "Title 133",
-    "year": 2013,
-    "score": 88,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 153
+    "title": "Anime 133",
+    "year": 2018,
+    "score": 98,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 53,
+    "complete": 1
   },
   {
     "id": 1000134,
-    "kind": "MANGA",
-    "title": "Title 134",
-    "year": 2014,
-    "score": 89,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 154
+    "kind": "ANIME",
+    "title": "Anime 134",
+    "year": 2019,
+    "score": 99,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 54,
+    "complete": 1
   },
   {
     "id": 1000135,
     "kind": "ANIME",
-    "title": "Title 135",
-    "year": 2015,
-    "score": 90,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 155
+    "title": "Anime 135",
+    "year": 2020,
+    "score": 55,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 55,
+    "complete": 1
   },
   {
     "id": 1000136,
-    "kind": "MANGA",
-    "title": "Title 136",
-    "year": 2016,
-    "score": 91,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 156
+    "kind": "ANIME",
+    "title": "Anime 136",
+    "year": 2021,
+    "score": 56,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 56,
+    "complete": 1
   },
   {
     "id": 1000137,
     "kind": "ANIME",
-    "title": "Title 137",
-    "year": 2017,
-    "score": 92,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 157
+    "title": "Anime 137",
+    "year": 2022,
+    "score": 57,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 57,
+    "complete": 1
   },
   {
     "id": 1000138,
-    "kind": "MANGA",
-    "title": "Title 138",
-    "year": 2018,
-    "score": 93,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 158
+    "kind": "ANIME",
+    "title": "Anime 138",
+    "year": 2023,
+    "score": 58,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 58,
+    "complete": 1
   },
   {
     "id": 1000139,
     "kind": "ANIME",
-    "title": "Title 139",
-    "year": 2019,
-    "score": 94,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 159
+    "title": "Anime 139",
+    "year": 2024,
+    "score": 59,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 59,
+    "complete": 1
   },
   {
     "id": 1000140,
-    "kind": "MANGA",
-    "title": "Title 140",
-    "year": 2020,
+    "kind": "ANIME",
+    "title": "Anime 140",
+    "year": 1990,
     "score": 60,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 160
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 60,
+    "complete": 1
   },
   {
     "id": 1000141,
     "kind": "ANIME",
-    "title": "Title 141",
-    "year": 2021,
+    "title": "Anime 141",
+    "year": 1991,
     "score": 61,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 161
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 61,
+    "complete": 1
   },
   {
     "id": 1000142,
-    "kind": "MANGA",
-    "title": "Title 142",
-    "year": 2022,
+    "kind": "ANIME",
+    "title": "Anime 142",
+    "year": 1992,
     "score": 62,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 162
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 62,
+    "complete": 1
   },
   {
     "id": 1000143,
     "kind": "ANIME",
-    "title": "Title 143",
-    "year": 2023,
+    "title": "Anime 143",
+    "year": 1993,
     "score": 63,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 163
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 63,
+    "complete": 1
   },
   {
     "id": 1000144,
-    "kind": "MANGA",
-    "title": "Title 144",
-    "year": 2000,
+    "kind": "ANIME",
+    "title": "Anime 144",
+    "year": 1994,
     "score": 64,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 164
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 64,
+    "complete": 1
   },
   {
     "id": 1000145,
     "kind": "ANIME",
-    "title": "Title 145",
-    "year": 2001,
+    "title": "Anime 145",
+    "year": 1995,
     "score": 65,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 165
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 65,
+    "complete": 1
   },
   {
     "id": 1000146,
-    "kind": "MANGA",
-    "title": "Title 146",
-    "year": 2002,
+    "kind": "ANIME",
+    "title": "Anime 146",
+    "year": 1996,
     "score": 66,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 166
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 66,
+    "complete": 1
   },
   {
     "id": 1000147,
     "kind": "ANIME",
-    "title": "Title 147",
-    "year": 2003,
+    "title": "Anime 147",
+    "year": 1997,
     "score": 67,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 167
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 67,
+    "complete": 1
   },
   {
     "id": 1000148,
-    "kind": "MANGA",
-    "title": "Title 148",
-    "year": 2004,
+    "kind": "ANIME",
+    "title": "Anime 148",
+    "year": 1998,
     "score": 68,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 168
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 68,
+    "complete": 1
   },
   {
     "id": 1000149,
     "kind": "ANIME",
-    "title": "Title 149",
-    "year": 2005,
+    "title": "Anime 149",
+    "year": 1999,
     "score": 69,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 169
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 69,
+    "complete": 1
   },
   {
     "id": 1000150,
-    "kind": "MANGA",
-    "title": "Title 150",
-    "year": 2006,
+    "kind": "ANIME",
+    "title": "Anime 150",
+    "year": 2000,
     "score": 70,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 170
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 70,
+    "complete": 1
   },
   {
     "id": 1000151,
     "kind": "ANIME",
-    "title": "Title 151",
-    "year": 2007,
+    "title": "Anime 151",
+    "year": 2001,
     "score": 71,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 171
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 71,
+    "complete": 1
   },
   {
     "id": 1000152,
-    "kind": "MANGA",
-    "title": "Title 152",
-    "year": 2008,
+    "kind": "ANIME",
+    "title": "Anime 152",
+    "year": 2002,
     "score": 72,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 172
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 72,
+    "complete": 1
   },
   {
     "id": 1000153,
     "kind": "ANIME",
-    "title": "Title 153",
-    "year": 2009,
+    "title": "Anime 153",
+    "year": 2003,
     "score": 73,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 173
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 73,
+    "complete": 1
   },
   {
     "id": 1000154,
-    "kind": "MANGA",
-    "title": "Title 154",
-    "year": 2010,
+    "kind": "ANIME",
+    "title": "Anime 154",
+    "year": 2004,
     "score": 74,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 174
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 74,
+    "complete": 1
   },
   {
     "id": 1000155,
     "kind": "ANIME",
-    "title": "Title 155",
-    "year": 2011,
+    "title": "Anime 155",
+    "year": 2005,
     "score": 75,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 175
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 75,
+    "complete": 1
   },
   {
     "id": 1000156,
-    "kind": "MANGA",
-    "title": "Title 156",
-    "year": 2012,
+    "kind": "ANIME",
+    "title": "Anime 156",
+    "year": 2006,
     "score": 76,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 176
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 76,
+    "complete": 1
   },
   {
     "id": 1000157,
     "kind": "ANIME",
-    "title": "Title 157",
-    "year": 2013,
+    "title": "Anime 157",
+    "year": 2007,
     "score": 77,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 177
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 77,
+    "complete": 1
   },
   {
     "id": 1000158,
-    "kind": "MANGA",
-    "title": "Title 158",
-    "year": 2014,
+    "kind": "ANIME",
+    "title": "Anime 158",
+    "year": 2008,
     "score": 78,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 178
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 78,
+    "complete": 1
   },
   {
     "id": 1000159,
     "kind": "ANIME",
-    "title": "Title 159",
-    "year": 2015,
+    "title": "Anime 159",
+    "year": 2009,
     "score": 79,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 179
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 79,
+    "complete": 1
   },
   {
     "id": 1000160,
-    "kind": "MANGA",
-    "title": "Title 160",
-    "year": 2016,
+    "kind": "ANIME",
+    "title": "Anime 160",
+    "year": 2010,
     "score": 80,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 180
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 80,
+    "complete": 1
   },
   {
     "id": 1000161,
     "kind": "ANIME",
-    "title": "Title 161",
-    "year": 2017,
+    "title": "Anime 161",
+    "year": 2011,
     "score": 81,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 181
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 81,
+    "complete": 1
   },
   {
     "id": 1000162,
-    "kind": "MANGA",
-    "title": "Title 162",
-    "year": 2018,
+    "kind": "ANIME",
+    "title": "Anime 162",
+    "year": 2012,
     "score": 82,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 182
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 82,
+    "complete": 1
   },
   {
     "id": 1000163,
     "kind": "ANIME",
-    "title": "Title 163",
-    "year": 2019,
+    "title": "Anime 163",
+    "year": 2013,
     "score": 83,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 183
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 83,
+    "complete": 1
   },
   {
     "id": 1000164,
-    "kind": "MANGA",
-    "title": "Title 164",
-    "year": 2020,
+    "kind": "ANIME",
+    "title": "Anime 164",
+    "year": 2014,
     "score": 84,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 184
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 84,
+    "complete": 1
   },
   {
     "id": 1000165,
     "kind": "ANIME",
-    "title": "Title 165",
-    "year": 2021,
+    "title": "Anime 165",
+    "year": 2015,
     "score": 85,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 185
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 85,
+    "complete": 1
   },
   {
     "id": 1000166,
-    "kind": "MANGA",
-    "title": "Title 166",
-    "year": 2022,
+    "kind": "ANIME",
+    "title": "Anime 166",
+    "year": 2016,
     "score": 86,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 186
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 86,
+    "complete": 1
   },
   {
     "id": 1000167,
     "kind": "ANIME",
-    "title": "Title 167",
-    "year": 2023,
+    "title": "Anime 167",
+    "year": 2017,
     "score": 87,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 187
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 87,
+    "complete": 1
   },
   {
     "id": 1000168,
-    "kind": "MANGA",
-    "title": "Title 168",
-    "year": 2000,
+    "kind": "ANIME",
+    "title": "Anime 168",
+    "year": 2018,
     "score": 88,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 188
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 88,
+    "complete": 1
   },
   {
     "id": 1000169,
     "kind": "ANIME",
-    "title": "Title 169",
-    "year": 2001,
+    "title": "Anime 169",
+    "year": 2019,
     "score": 89,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 189
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 89,
+    "complete": 1
   },
   {
     "id": 1000170,
-    "kind": "MANGA",
-    "title": "Title 170",
-    "year": 2002,
+    "kind": "ANIME",
+    "title": "Anime 170",
+    "year": 2020,
     "score": 90,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 190
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 90,
+    "complete": 1
   },
   {
     "id": 1000171,
     "kind": "ANIME",
-    "title": "Title 171",
-    "year": 2003,
+    "title": "Anime 171",
+    "year": 2021,
     "score": 91,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 191
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 91,
+    "complete": 1
   },
   {
     "id": 1000172,
-    "kind": "MANGA",
-    "title": "Title 172",
-    "year": 2004,
+    "kind": "ANIME",
+    "title": "Anime 172",
+    "year": 2022,
     "score": 92,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 192
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 92,
+    "complete": 1
   },
   {
     "id": 1000173,
     "kind": "ANIME",
-    "title": "Title 173",
-    "year": 2005,
+    "title": "Anime 173",
+    "year": 2023,
     "score": 93,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 193
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 93,
+    "complete": 1
   },
   {
     "id": 1000174,
-    "kind": "MANGA",
-    "title": "Title 174",
-    "year": 2006,
+    "kind": "ANIME",
+    "title": "Anime 174",
+    "year": 2024,
     "score": 94,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 194
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 94,
+    "complete": 1
   },
   {
     "id": 1000175,
     "kind": "ANIME",
-    "title": "Title 175",
-    "year": 2007,
-    "score": 60,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 195
+    "title": "Anime 175",
+    "year": 1990,
+    "score": 95,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 95,
+    "complete": 1
   },
   {
     "id": 1000176,
-    "kind": "MANGA",
-    "title": "Title 176",
-    "year": 2008,
-    "score": 61,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 196
+    "kind": "ANIME",
+    "title": "Anime 176",
+    "year": 1991,
+    "score": 96,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 96,
+    "complete": 1
   },
   {
     "id": 1000177,
     "kind": "ANIME",
-    "title": "Title 177",
-    "year": 2009,
-    "score": 62,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 197
+    "title": "Anime 177",
+    "year": 1992,
+    "score": 97,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 97,
+    "complete": 1
   },
   {
     "id": 1000178,
-    "kind": "MANGA",
-    "title": "Title 178",
-    "year": 2010,
-    "score": 63,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 198
+    "kind": "ANIME",
+    "title": "Anime 178",
+    "year": 1993,
+    "score": 98,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 98,
+    "complete": 1
   },
   {
     "id": 1000179,
     "kind": "ANIME",
-    "title": "Title 179",
-    "year": 2011,
-    "score": 64,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 199
+    "title": "Anime 179",
+    "year": 1994,
+    "score": 99,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 99,
+    "complete": 1
   },
   {
     "id": 1000180,
-    "kind": "MANGA",
-    "title": "Title 180",
-    "year": 2012,
-    "score": 65,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 200
+    "kind": "ANIME",
+    "title": "Anime 180",
+    "year": 1995,
+    "score": 55,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 100,
+    "complete": 1
   },
   {
     "id": 1000181,
     "kind": "ANIME",
-    "title": "Title 181",
-    "year": 2013,
-    "score": 66,
-    "tags": [
-      "tag1",
-      "tag8"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 201
+    "title": "Anime 181",
+    "year": 1996,
+    "score": 56,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 101,
+    "complete": 1
   },
   {
     "id": 1000182,
-    "kind": "MANGA",
-    "title": "Title 182",
-    "year": 2014,
-    "score": 67,
-    "tags": [
-      "tag2",
-      "tag9"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 202
+    "kind": "ANIME",
+    "title": "Anime 182",
+    "year": 1997,
+    "score": 57,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 102,
+    "complete": 1
   },
   {
     "id": 1000183,
     "kind": "ANIME",
-    "title": "Title 183",
-    "year": 2015,
-    "score": 68,
-    "tags": [
-      "tag3",
-      "tag10"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 203
+    "title": "Anime 183",
+    "year": 1998,
+    "score": 58,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 103,
+    "complete": 1
   },
   {
     "id": 1000184,
-    "kind": "MANGA",
-    "title": "Title 184",
-    "year": 2016,
-    "score": 69,
-    "tags": [
-      "tag4",
-      "tag11"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 204
+    "kind": "ANIME",
+    "title": "Anime 184",
+    "year": 1999,
+    "score": 59,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 104,
+    "complete": 1
   },
   {
     "id": 1000185,
     "kind": "ANIME",
-    "title": "Title 185",
-    "year": 2017,
-    "score": 70,
-    "tags": [
-      "tag5",
-      "tag12"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 205
+    "title": "Anime 185",
+    "year": 2000,
+    "score": 60,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 105,
+    "complete": 1
   },
   {
     "id": 1000186,
-    "kind": "MANGA",
-    "title": "Title 186",
-    "year": 2018,
-    "score": 71,
-    "tags": [
-      "tag6",
-      "tag13"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 206
+    "kind": "ANIME",
+    "title": "Anime 186",
+    "year": 2001,
+    "score": 61,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 106,
+    "complete": 1
   },
   {
     "id": 1000187,
     "kind": "ANIME",
-    "title": "Title 187",
-    "year": 2019,
-    "score": 72,
-    "tags": [
-      "tag7",
-      "tag14"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 207
+    "title": "Anime 187",
+    "year": 2002,
+    "score": 62,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 107,
+    "complete": 1
   },
   {
     "id": 1000188,
-    "kind": "MANGA",
-    "title": "Title 188",
-    "year": 2020,
-    "score": 73,
-    "tags": [
-      "tag8",
-      "tag15"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 208
+    "kind": "ANIME",
+    "title": "Anime 188",
+    "year": 2003,
+    "score": 63,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 108,
+    "complete": 1
   },
   {
     "id": 1000189,
     "kind": "ANIME",
-    "title": "Title 189",
-    "year": 2021,
-    "score": 74,
-    "tags": [
-      "tag9",
-      "tag16"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 209
+    "title": "Anime 189",
+    "year": 2004,
+    "score": 64,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 109,
+    "complete": 1
   },
   {
     "id": 1000190,
-    "kind": "MANGA",
-    "title": "Title 190",
-    "year": 2022,
-    "score": 75,
-    "tags": [
-      "tag10",
-      "tag17"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 210
+    "kind": "ANIME",
+    "title": "Anime 190",
+    "year": 2005,
+    "score": 65,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 110,
+    "complete": 1
   },
   {
     "id": 1000191,
     "kind": "ANIME",
-    "title": "Title 191",
-    "year": 2023,
-    "score": 76,
-    "tags": [
-      "tag11",
-      "tag18"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio1"
-    ],
-    "popularity": 211
+    "title": "Anime 191",
+    "year": 2006,
+    "score": 66,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 111,
+    "complete": 1
   },
   {
     "id": 1000192,
-    "kind": "MANGA",
-    "title": "Title 192",
-    "year": 2000,
-    "score": 77,
-    "tags": [
-      "tag12",
-      "tag19"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio2"
-    ],
-    "popularity": 212
+    "kind": "ANIME",
+    "title": "Anime 192",
+    "year": 2007,
+    "score": 67,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 112,
+    "complete": 1
   },
   {
     "id": 1000193,
     "kind": "ANIME",
-    "title": "Title 193",
-    "year": 2001,
-    "score": 78,
-    "tags": [
-      "tag13",
-      "tag0"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio3"
-    ],
-    "popularity": 213
+    "title": "Anime 193",
+    "year": 2008,
+    "score": 68,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 113,
+    "complete": 1
   },
   {
     "id": 1000194,
-    "kind": "MANGA",
-    "title": "Title 194",
-    "year": 2002,
-    "score": 79,
-    "tags": [
-      "tag14",
-      "tag1"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio4"
-    ],
-    "popularity": 214
+    "kind": "ANIME",
+    "title": "Anime 194",
+    "year": 2009,
+    "score": 69,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 114,
+    "complete": 1
   },
   {
     "id": 1000195,
     "kind": "ANIME",
-    "title": "Title 195",
-    "year": 2003,
-    "score": 80,
-    "tags": [
-      "tag15",
-      "tag2"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio5"
-    ],
-    "popularity": 215
+    "title": "Anime 195",
+    "year": 2010,
+    "score": 70,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 115,
+    "complete": 1
   },
   {
     "id": 1000196,
-    "kind": "MANGA",
-    "title": "Title 196",
-    "year": 2004,
-    "score": 81,
-    "tags": [
-      "tag16",
-      "tag3"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio6"
-    ],
-    "popularity": 216
+    "kind": "ANIME",
+    "title": "Anime 196",
+    "year": 2011,
+    "score": 71,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 116,
+    "complete": 1
   },
   {
     "id": 1000197,
     "kind": "ANIME",
-    "title": "Title 197",
-    "year": 2005,
-    "score": 82,
-    "tags": [
-      "tag17",
-      "tag4"
-    ],
-    "genres": [
-      "Drama"
-    ],
-    "studios": [
-      "studio7"
-    ],
-    "popularity": 217
+    "title": "Anime 197",
+    "year": 2012,
+    "score": 72,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 117,
+    "complete": 1
   },
   {
     "id": 1000198,
-    "kind": "MANGA",
-    "title": "Title 198",
-    "year": 2006,
-    "score": 83,
-    "tags": [
-      "tag18",
-      "tag5"
-    ],
-    "genres": [
-      "Fantasy"
-    ],
-    "studios": [
-      "studio8"
-    ],
-    "popularity": 218
+    "kind": "ANIME",
+    "title": "Anime 198",
+    "year": 2013,
+    "score": 73,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 118,
+    "complete": 1
   },
   {
     "id": 1000199,
     "kind": "ANIME",
-    "title": "Title 199",
-    "year": 2007,
-    "score": 84,
-    "tags": [
-      "tag19",
-      "tag6"
-    ],
-    "genres": [
-      "Comedy"
-    ],
-    "studios": [
-      "studio9"
-    ],
-    "popularity": 219
+    "title": "Anime 199",
+    "year": 2014,
+    "score": 74,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 119,
+    "complete": 1
   },
   {
     "id": 1000200,
-    "kind": "MANGA",
-    "title": "Title 200",
-    "year": 2008,
+    "kind": "ANIME",
+    "title": "Anime 200",
+    "year": 2015,
+    "score": 75,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 20,
+    "complete": 1
+  },
+  {
+    "id": 1000201,
+    "kind": "ANIME",
+    "title": "Anime 201",
+    "year": 2016,
+    "score": 76,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 21,
+    "complete": 1
+  },
+  {
+    "id": 1000202,
+    "kind": "ANIME",
+    "title": "Anime 202",
+    "year": 2017,
+    "score": 77,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 22,
+    "complete": 1
+  },
+  {
+    "id": 1000203,
+    "kind": "ANIME",
+    "title": "Anime 203",
+    "year": 2018,
+    "score": 78,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 23,
+    "complete": 1
+  },
+  {
+    "id": 1000204,
+    "kind": "ANIME",
+    "title": "Anime 204",
+    "year": 2019,
+    "score": 79,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 24,
+    "complete": 1
+  },
+  {
+    "id": 1000205,
+    "kind": "ANIME",
+    "title": "Anime 205",
+    "year": 2020,
+    "score": 80,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 25,
+    "complete": 1
+  },
+  {
+    "id": 1000206,
+    "kind": "ANIME",
+    "title": "Anime 206",
+    "year": 2021,
+    "score": 81,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 26,
+    "complete": 1
+  },
+  {
+    "id": 1000207,
+    "kind": "ANIME",
+    "title": "Anime 207",
+    "year": 2022,
+    "score": 82,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 27,
+    "complete": 1
+  },
+  {
+    "id": 1000208,
+    "kind": "ANIME",
+    "title": "Anime 208",
+    "year": 2023,
+    "score": 83,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 28,
+    "complete": 1
+  },
+  {
+    "id": 1000209,
+    "kind": "ANIME",
+    "title": "Anime 209",
+    "year": 2024,
+    "score": 84,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 29,
+    "complete": 1
+  },
+  {
+    "id": 1000210,
+    "kind": "ANIME",
+    "title": "Anime 210",
+    "year": 1990,
     "score": 85,
-    "tags": [
-      "tag0",
-      "tag7"
-    ],
-    "genres": [
-      "Action"
-    ],
-    "studios": [
-      "studio0"
-    ],
-    "popularity": 220
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 30,
+    "complete": 1
+  },
+  {
+    "id": 1000211,
+    "kind": "ANIME",
+    "title": "Anime 211",
+    "year": 1991,
+    "score": 86,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 31,
+    "complete": 1
+  },
+  {
+    "id": 1000212,
+    "kind": "ANIME",
+    "title": "Anime 212",
+    "year": 1992,
+    "score": 87,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 32,
+    "complete": 1
+  },
+  {
+    "id": 1000213,
+    "kind": "ANIME",
+    "title": "Anime 213",
+    "year": 1993,
+    "score": 88,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 33,
+    "complete": 1
+  },
+  {
+    "id": 1000214,
+    "kind": "ANIME",
+    "title": "Anime 214",
+    "year": 1994,
+    "score": 89,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 34,
+    "complete": 1
+  },
+  {
+    "id": 1000215,
+    "kind": "ANIME",
+    "title": "Anime 215",
+    "year": 1995,
+    "score": 90,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 35,
+    "complete": 1
+  },
+  {
+    "id": 1000216,
+    "kind": "ANIME",
+    "title": "Anime 216",
+    "year": 1996,
+    "score": 91,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 36,
+    "complete": 1
+  },
+  {
+    "id": 1000217,
+    "kind": "ANIME",
+    "title": "Anime 217",
+    "year": 1997,
+    "score": 92,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 37,
+    "complete": 1
+  },
+  {
+    "id": 1000218,
+    "kind": "ANIME",
+    "title": "Anime 218",
+    "year": 1998,
+    "score": 93,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 38,
+    "complete": 1
+  },
+  {
+    "id": 1000219,
+    "kind": "ANIME",
+    "title": "Anime 219",
+    "year": 1999,
+    "score": 94,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 39,
+    "complete": 1
+  },
+  {
+    "id": 1000220,
+    "kind": "ANIME",
+    "title": "Anime 220",
+    "year": 2000,
+    "score": 95,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 40,
+    "complete": 1
+  },
+  {
+    "id": 1000221,
+    "kind": "ANIME",
+    "title": "Anime 221",
+    "year": 2001,
+    "score": 96,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 41,
+    "complete": 1
+  },
+  {
+    "id": 1000222,
+    "kind": "ANIME",
+    "title": "Anime 222",
+    "year": 2002,
+    "score": 97,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 42,
+    "complete": 1
+  },
+  {
+    "id": 1000223,
+    "kind": "ANIME",
+    "title": "Anime 223",
+    "year": 2003,
+    "score": 98,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 43,
+    "complete": 1
+  },
+  {
+    "id": 1000224,
+    "kind": "ANIME",
+    "title": "Anime 224",
+    "year": 2004,
+    "score": 99,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 44,
+    "complete": 1
+  },
+  {
+    "id": 1000225,
+    "kind": "ANIME",
+    "title": "Anime 225",
+    "year": 2005,
+    "score": 55,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 45,
+    "complete": 1
+  },
+  {
+    "id": 1000226,
+    "kind": "ANIME",
+    "title": "Anime 226",
+    "year": 2006,
+    "score": 56,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 46,
+    "complete": 1
+  },
+  {
+    "id": 1000227,
+    "kind": "ANIME",
+    "title": "Anime 227",
+    "year": 2007,
+    "score": 57,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 47,
+    "complete": 1
+  },
+  {
+    "id": 1000228,
+    "kind": "ANIME",
+    "title": "Anime 228",
+    "year": 2008,
+    "score": 58,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 48,
+    "complete": 1
+  },
+  {
+    "id": 1000229,
+    "kind": "ANIME",
+    "title": "Anime 229",
+    "year": 2009,
+    "score": 59,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 49,
+    "complete": 1
+  },
+  {
+    "id": 1000230,
+    "kind": "ANIME",
+    "title": "Anime 230",
+    "year": 2010,
+    "score": 60,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 50,
+    "complete": 1
+  },
+  {
+    "id": 1000231,
+    "kind": "ANIME",
+    "title": "Anime 231",
+    "year": 2011,
+    "score": 61,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 51,
+    "complete": 1
+  },
+  {
+    "id": 1000232,
+    "kind": "ANIME",
+    "title": "Anime 232",
+    "year": 2012,
+    "score": 62,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 52,
+    "complete": 1
+  },
+  {
+    "id": 1000233,
+    "kind": "ANIME",
+    "title": "Anime 233",
+    "year": 2013,
+    "score": 63,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 53,
+    "complete": 1
+  },
+  {
+    "id": 1000234,
+    "kind": "ANIME",
+    "title": "Anime 234",
+    "year": 2014,
+    "score": 64,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 54,
+    "complete": 1
+  },
+  {
+    "id": 1000235,
+    "kind": "ANIME",
+    "title": "Anime 235",
+    "year": 2015,
+    "score": 65,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 55,
+    "complete": 1
+  },
+  {
+    "id": 1000236,
+    "kind": "ANIME",
+    "title": "Anime 236",
+    "year": 2016,
+    "score": 66,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 56,
+    "complete": 1
+  },
+  {
+    "id": 1000237,
+    "kind": "ANIME",
+    "title": "Anime 237",
+    "year": 2017,
+    "score": 67,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 57,
+    "complete": 1
+  },
+  {
+    "id": 1000238,
+    "kind": "ANIME",
+    "title": "Anime 238",
+    "year": 2018,
+    "score": 68,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 58,
+    "complete": 1
+  },
+  {
+    "id": 1000239,
+    "kind": "ANIME",
+    "title": "Anime 239",
+    "year": 2019,
+    "score": 69,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 59,
+    "complete": 1
+  },
+  {
+    "id": 1000240,
+    "kind": "ANIME",
+    "title": "Anime 240",
+    "year": 2020,
+    "score": 70,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 60,
+    "complete": 1
+  },
+  {
+    "id": 1000241,
+    "kind": "ANIME",
+    "title": "Anime 241",
+    "year": 2021,
+    "score": 71,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 61,
+    "complete": 1
+  },
+  {
+    "id": 1000242,
+    "kind": "ANIME",
+    "title": "Anime 242",
+    "year": 2022,
+    "score": 72,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 62,
+    "complete": 1
+  },
+  {
+    "id": 1000243,
+    "kind": "ANIME",
+    "title": "Anime 243",
+    "year": 2023,
+    "score": 73,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 63,
+    "complete": 1
+  },
+  {
+    "id": 1000244,
+    "kind": "ANIME",
+    "title": "Anime 244",
+    "year": 2024,
+    "score": 74,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 64,
+    "complete": 1
+  },
+  {
+    "id": 1000245,
+    "kind": "ANIME",
+    "title": "Anime 245",
+    "year": 1990,
+    "score": 75,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 65,
+    "complete": 1
+  },
+  {
+    "id": 1000246,
+    "kind": "ANIME",
+    "title": "Anime 246",
+    "year": 1991,
+    "score": 76,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 66,
+    "complete": 1
+  },
+  {
+    "id": 1000247,
+    "kind": "ANIME",
+    "title": "Anime 247",
+    "year": 1992,
+    "score": 77,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 67,
+    "complete": 1
+  },
+  {
+    "id": 1000248,
+    "kind": "ANIME",
+    "title": "Anime 248",
+    "year": 1993,
+    "score": 78,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 68,
+    "complete": 1
+  },
+  {
+    "id": 1000249,
+    "kind": "ANIME",
+    "title": "Anime 249",
+    "year": 1994,
+    "score": 79,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 69,
+    "complete": 1
+  },
+  {
+    "id": 1000250,
+    "kind": "ANIME",
+    "title": "Anime 250",
+    "year": 1995,
+    "score": 80,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 70,
+    "complete": 1
+  },
+  {
+    "id": 1000251,
+    "kind": "ANIME",
+    "title": "Anime 251",
+    "year": 1996,
+    "score": 81,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 71,
+    "complete": 1
+  },
+  {
+    "id": 1000252,
+    "kind": "ANIME",
+    "title": "Anime 252",
+    "year": 1997,
+    "score": 82,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 72,
+    "complete": 1
+  },
+  {
+    "id": 1000253,
+    "kind": "ANIME",
+    "title": "Anime 253",
+    "year": 1998,
+    "score": 83,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 73,
+    "complete": 1
+  },
+  {
+    "id": 1000254,
+    "kind": "ANIME",
+    "title": "Anime 254",
+    "year": 1999,
+    "score": 84,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 74,
+    "complete": 1
+  },
+  {
+    "id": 1000255,
+    "kind": "ANIME",
+    "title": "Anime 255",
+    "year": 2000,
+    "score": 85,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 75,
+    "complete": 1
+  },
+  {
+    "id": 1000256,
+    "kind": "ANIME",
+    "title": "Anime 256",
+    "year": 2001,
+    "score": 86,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 76,
+    "complete": 1
+  },
+  {
+    "id": 1000257,
+    "kind": "ANIME",
+    "title": "Anime 257",
+    "year": 2002,
+    "score": 87,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 77,
+    "complete": 1
+  },
+  {
+    "id": 1000258,
+    "kind": "ANIME",
+    "title": "Anime 258",
+    "year": 2003,
+    "score": 88,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 78,
+    "complete": 1
+  },
+  {
+    "id": 1000259,
+    "kind": "ANIME",
+    "title": "Anime 259",
+    "year": 2004,
+    "score": 89,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 79,
+    "complete": 1
+  },
+  {
+    "id": 1000260,
+    "kind": "ANIME",
+    "title": "Anime 260",
+    "year": 2005,
+    "score": 90,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 80,
+    "complete": 1
+  },
+  {
+    "id": 1000261,
+    "kind": "ANIME",
+    "title": "Anime 261",
+    "year": 2006,
+    "score": 91,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 81,
+    "complete": 1
+  },
+  {
+    "id": 1000262,
+    "kind": "ANIME",
+    "title": "Anime 262",
+    "year": 2007,
+    "score": 92,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 82,
+    "complete": 1
+  },
+  {
+    "id": 1000263,
+    "kind": "ANIME",
+    "title": "Anime 263",
+    "year": 2008,
+    "score": 93,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 83,
+    "complete": 1
+  },
+  {
+    "id": 1000264,
+    "kind": "ANIME",
+    "title": "Anime 264",
+    "year": 2009,
+    "score": 94,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 84,
+    "complete": 1
+  },
+  {
+    "id": 1000265,
+    "kind": "ANIME",
+    "title": "Anime 265",
+    "year": 2010,
+    "score": 95,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 85,
+    "complete": 1
+  },
+  {
+    "id": 1000266,
+    "kind": "ANIME",
+    "title": "Anime 266",
+    "year": 2011,
+    "score": 96,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 86,
+    "complete": 1
+  },
+  {
+    "id": 1000267,
+    "kind": "ANIME",
+    "title": "Anime 267",
+    "year": 2012,
+    "score": 97,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 87,
+    "complete": 1
+  },
+  {
+    "id": 1000268,
+    "kind": "ANIME",
+    "title": "Anime 268",
+    "year": 2013,
+    "score": 98,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 88,
+    "complete": 1
+  },
+  {
+    "id": 1000269,
+    "kind": "ANIME",
+    "title": "Anime 269",
+    "year": 2014,
+    "score": 99,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 89,
+    "complete": 1
+  },
+  {
+    "id": 1000270,
+    "kind": "ANIME",
+    "title": "Anime 270",
+    "year": 2015,
+    "score": 55,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 90,
+    "complete": 1
+  },
+  {
+    "id": 1000271,
+    "kind": "ANIME",
+    "title": "Anime 271",
+    "year": 2016,
+    "score": 56,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 91,
+    "complete": 1
+  },
+  {
+    "id": 1000272,
+    "kind": "ANIME",
+    "title": "Anime 272",
+    "year": 2017,
+    "score": 57,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 92,
+    "complete": 1
+  },
+  {
+    "id": 1000273,
+    "kind": "ANIME",
+    "title": "Anime 273",
+    "year": 2018,
+    "score": 58,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 93,
+    "complete": 1
+  },
+  {
+    "id": 1000274,
+    "kind": "ANIME",
+    "title": "Anime 274",
+    "year": 2019,
+    "score": 59,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 94,
+    "complete": 1
+  },
+  {
+    "id": 1000275,
+    "kind": "ANIME",
+    "title": "Anime 275",
+    "year": 2020,
+    "score": 60,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 95,
+    "complete": 1
+  },
+  {
+    "id": 1000276,
+    "kind": "ANIME",
+    "title": "Anime 276",
+    "year": 2021,
+    "score": 61,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 96,
+    "complete": 1
+  },
+  {
+    "id": 1000277,
+    "kind": "ANIME",
+    "title": "Anime 277",
+    "year": 2022,
+    "score": 62,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 97,
+    "complete": 1
+  },
+  {
+    "id": 1000278,
+    "kind": "ANIME",
+    "title": "Anime 278",
+    "year": 2023,
+    "score": 63,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 98,
+    "complete": 1
+  },
+  {
+    "id": 1000279,
+    "kind": "ANIME",
+    "title": "Anime 279",
+    "year": 2024,
+    "score": 64,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 99,
+    "complete": 1
+  },
+  {
+    "id": 1000280,
+    "kind": "ANIME",
+    "title": "Anime 280",
+    "year": 1990,
+    "score": 65,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 100,
+    "complete": 1
+  },
+  {
+    "id": 1000281,
+    "kind": "ANIME",
+    "title": "Anime 281",
+    "year": 1991,
+    "score": 66,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 101,
+    "complete": 1
+  },
+  {
+    "id": 1000282,
+    "kind": "ANIME",
+    "title": "Anime 282",
+    "year": 1992,
+    "score": 67,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 102,
+    "complete": 1
+  },
+  {
+    "id": 1000283,
+    "kind": "ANIME",
+    "title": "Anime 283",
+    "year": 1993,
+    "score": 68,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 103,
+    "complete": 1
+  },
+  {
+    "id": 1000284,
+    "kind": "ANIME",
+    "title": "Anime 284",
+    "year": 1994,
+    "score": 69,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 104,
+    "complete": 1
+  },
+  {
+    "id": 1000285,
+    "kind": "ANIME",
+    "title": "Anime 285",
+    "year": 1995,
+    "score": 70,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 105,
+    "complete": 1
+  },
+  {
+    "id": 1000286,
+    "kind": "ANIME",
+    "title": "Anime 286",
+    "year": 1996,
+    "score": 71,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 106,
+    "complete": 1
+  },
+  {
+    "id": 1000287,
+    "kind": "ANIME",
+    "title": "Anime 287",
+    "year": 1997,
+    "score": 72,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 107,
+    "complete": 1
+  },
+  {
+    "id": 1000288,
+    "kind": "ANIME",
+    "title": "Anime 288",
+    "year": 1998,
+    "score": 73,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 108,
+    "complete": 1
+  },
+  {
+    "id": 1000289,
+    "kind": "ANIME",
+    "title": "Anime 289",
+    "year": 1999,
+    "score": 74,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 109,
+    "complete": 1
+  },
+  {
+    "id": 1000290,
+    "kind": "ANIME",
+    "title": "Anime 290",
+    "year": 2000,
+    "score": 75,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 110,
+    "complete": 1
+  },
+  {
+    "id": 1000291,
+    "kind": "ANIME",
+    "title": "Anime 291",
+    "year": 2001,
+    "score": 76,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 111,
+    "complete": 1
+  },
+  {
+    "id": 1000292,
+    "kind": "ANIME",
+    "title": "Anime 292",
+    "year": 2002,
+    "score": 77,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 112,
+    "complete": 1
+  },
+  {
+    "id": 1000293,
+    "kind": "ANIME",
+    "title": "Anime 293",
+    "year": 2003,
+    "score": 78,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 113,
+    "complete": 1
+  },
+  {
+    "id": 1000294,
+    "kind": "ANIME",
+    "title": "Anime 294",
+    "year": 2004,
+    "score": 79,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 114,
+    "complete": 1
+  },
+  {
+    "id": 1000295,
+    "kind": "ANIME",
+    "title": "Anime 295",
+    "year": 2005,
+    "score": 80,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 115,
+    "complete": 1
+  },
+  {
+    "id": 1000296,
+    "kind": "ANIME",
+    "title": "Anime 296",
+    "year": 2006,
+    "score": 81,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 116,
+    "complete": 1
+  },
+  {
+    "id": 1000297,
+    "kind": "ANIME",
+    "title": "Anime 297",
+    "year": 2007,
+    "score": 82,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 117,
+    "complete": 1
+  },
+  {
+    "id": 1000298,
+    "kind": "ANIME",
+    "title": "Anime 298",
+    "year": 2008,
+    "score": 83,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 118,
+    "complete": 1
+  },
+  {
+    "id": 1000299,
+    "kind": "ANIME",
+    "title": "Anime 299",
+    "year": 2009,
+    "score": 84,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 119,
+    "complete": 1
+  },
+  {
+    "id": 1000300,
+    "kind": "ANIME",
+    "title": "Anime 300",
+    "year": 2010,
+    "score": 85,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 20,
+    "complete": 1
+  },
+  {
+    "id": 1000301,
+    "kind": "ANIME",
+    "title": "Anime 301",
+    "year": 2011,
+    "score": 86,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 21,
+    "complete": 1
+  },
+  {
+    "id": 1000302,
+    "kind": "ANIME",
+    "title": "Anime 302",
+    "year": 2012,
+    "score": 87,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 22,
+    "complete": 1
+  },
+  {
+    "id": 1000303,
+    "kind": "ANIME",
+    "title": "Anime 303",
+    "year": 2013,
+    "score": 88,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 23,
+    "complete": 1
+  },
+  {
+    "id": 1000304,
+    "kind": "ANIME",
+    "title": "Anime 304",
+    "year": 2014,
+    "score": 89,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 24,
+    "complete": 1
+  },
+  {
+    "id": 1000305,
+    "kind": "ANIME",
+    "title": "Anime 305",
+    "year": 2015,
+    "score": 90,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 25,
+    "complete": 1
+  },
+  {
+    "id": 1000306,
+    "kind": "ANIME",
+    "title": "Anime 306",
+    "year": 2016,
+    "score": 91,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 26,
+    "complete": 1
+  },
+  {
+    "id": 1000307,
+    "kind": "ANIME",
+    "title": "Anime 307",
+    "year": 2017,
+    "score": 92,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 27,
+    "complete": 1
+  },
+  {
+    "id": 1000308,
+    "kind": "ANIME",
+    "title": "Anime 308",
+    "year": 2018,
+    "score": 93,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 28,
+    "complete": 1
+  },
+  {
+    "id": 1000309,
+    "kind": "ANIME",
+    "title": "Anime 309",
+    "year": 2019,
+    "score": 94,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 29,
+    "complete": 1
+  },
+  {
+    "id": 1000310,
+    "kind": "ANIME",
+    "title": "Anime 310",
+    "year": 2020,
+    "score": 95,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 30,
+    "complete": 1
+  },
+  {
+    "id": 1000311,
+    "kind": "ANIME",
+    "title": "Anime 311",
+    "year": 2021,
+    "score": 96,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 31,
+    "complete": 1
+  },
+  {
+    "id": 1000312,
+    "kind": "ANIME",
+    "title": "Anime 312",
+    "year": 2022,
+    "score": 97,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 32,
+    "complete": 1
+  },
+  {
+    "id": 1000313,
+    "kind": "ANIME",
+    "title": "Anime 313",
+    "year": 2023,
+    "score": 98,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 33,
+    "complete": 1
+  },
+  {
+    "id": 1000314,
+    "kind": "ANIME",
+    "title": "Anime 314",
+    "year": 2024,
+    "score": 99,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 34,
+    "complete": 1
+  },
+  {
+    "id": 1000315,
+    "kind": "ANIME",
+    "title": "Anime 315",
+    "year": 1990,
+    "score": 55,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 35,
+    "complete": 1
+  },
+  {
+    "id": 1000316,
+    "kind": "ANIME",
+    "title": "Anime 316",
+    "year": 1991,
+    "score": 56,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 36,
+    "complete": 1
+  },
+  {
+    "id": 1000317,
+    "kind": "ANIME",
+    "title": "Anime 317",
+    "year": 1992,
+    "score": 57,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 37,
+    "complete": 1
+  },
+  {
+    "id": 1000318,
+    "kind": "ANIME",
+    "title": "Anime 318",
+    "year": 1993,
+    "score": 58,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 38,
+    "complete": 1
+  },
+  {
+    "id": 1000319,
+    "kind": "ANIME",
+    "title": "Anime 319",
+    "year": 1994,
+    "score": 59,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 39,
+    "complete": 1
+  },
+  {
+    "id": 1000320,
+    "kind": "ANIME",
+    "title": "Anime 320",
+    "year": 1995,
+    "score": 60,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 40,
+    "complete": 1
+  },
+  {
+    "id": 1000321,
+    "kind": "ANIME",
+    "title": "Anime 321",
+    "year": 1996,
+    "score": 61,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 41,
+    "complete": 1
+  },
+  {
+    "id": 1000322,
+    "kind": "ANIME",
+    "title": "Anime 322",
+    "year": 1997,
+    "score": 62,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 42,
+    "complete": 1
+  },
+  {
+    "id": 1000323,
+    "kind": "ANIME",
+    "title": "Anime 323",
+    "year": 1998,
+    "score": 63,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 43,
+    "complete": 1
+  },
+  {
+    "id": 1000324,
+    "kind": "ANIME",
+    "title": "Anime 324",
+    "year": 1999,
+    "score": 64,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 44,
+    "complete": 1
+  },
+  {
+    "id": 1000325,
+    "kind": "ANIME",
+    "title": "Anime 325",
+    "year": 2000,
+    "score": 65,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 45,
+    "complete": 1
+  },
+  {
+    "id": 1000326,
+    "kind": "ANIME",
+    "title": "Anime 326",
+    "year": 2001,
+    "score": 66,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 46,
+    "complete": 1
+  },
+  {
+    "id": 1000327,
+    "kind": "ANIME",
+    "title": "Anime 327",
+    "year": 2002,
+    "score": 67,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 47,
+    "complete": 1
+  },
+  {
+    "id": 1000328,
+    "kind": "ANIME",
+    "title": "Anime 328",
+    "year": 2003,
+    "score": 68,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 48,
+    "complete": 1
+  },
+  {
+    "id": 1000329,
+    "kind": "ANIME",
+    "title": "Anime 329",
+    "year": 2004,
+    "score": 69,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 49,
+    "complete": 1
+  },
+  {
+    "id": 1000330,
+    "kind": "ANIME",
+    "title": "Anime 330",
+    "year": 2005,
+    "score": 70,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 50,
+    "complete": 1
+  },
+  {
+    "id": 1000331,
+    "kind": "ANIME",
+    "title": "Anime 331",
+    "year": 2006,
+    "score": 71,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 51,
+    "complete": 1
+  },
+  {
+    "id": 1000332,
+    "kind": "ANIME",
+    "title": "Anime 332",
+    "year": 2007,
+    "score": 72,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 52,
+    "complete": 1
+  },
+  {
+    "id": 1000333,
+    "kind": "ANIME",
+    "title": "Anime 333",
+    "year": 2008,
+    "score": 73,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 53,
+    "complete": 1
+  },
+  {
+    "id": 1000334,
+    "kind": "ANIME",
+    "title": "Anime 334",
+    "year": 2009,
+    "score": 74,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 54,
+    "complete": 1
+  },
+  {
+    "id": 1000335,
+    "kind": "ANIME",
+    "title": "Anime 335",
+    "year": 2010,
+    "score": 75,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 55,
+    "complete": 1
+  },
+  {
+    "id": 1000336,
+    "kind": "ANIME",
+    "title": "Anime 336",
+    "year": 2011,
+    "score": 76,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 56,
+    "complete": 1
+  },
+  {
+    "id": 1000337,
+    "kind": "ANIME",
+    "title": "Anime 337",
+    "year": 2012,
+    "score": 77,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 57,
+    "complete": 1
+  },
+  {
+    "id": 1000338,
+    "kind": "ANIME",
+    "title": "Anime 338",
+    "year": 2013,
+    "score": 78,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 58,
+    "complete": 1
+  },
+  {
+    "id": 1000339,
+    "kind": "ANIME",
+    "title": "Anime 339",
+    "year": 2014,
+    "score": 79,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 59,
+    "complete": 1
+  },
+  {
+    "id": 1000340,
+    "kind": "ANIME",
+    "title": "Anime 340",
+    "year": 2015,
+    "score": 80,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 60,
+    "complete": 1
+  },
+  {
+    "id": 1000341,
+    "kind": "ANIME",
+    "title": "Anime 341",
+    "year": 2016,
+    "score": 81,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 61,
+    "complete": 1
+  },
+  {
+    "id": 1000342,
+    "kind": "ANIME",
+    "title": "Anime 342",
+    "year": 2017,
+    "score": 82,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 62,
+    "complete": 1
+  },
+  {
+    "id": 1000343,
+    "kind": "ANIME",
+    "title": "Anime 343",
+    "year": 2018,
+    "score": 83,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 63,
+    "complete": 1
+  },
+  {
+    "id": 1000344,
+    "kind": "ANIME",
+    "title": "Anime 344",
+    "year": 2019,
+    "score": 84,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 64,
+    "complete": 1
+  },
+  {
+    "id": 1000345,
+    "kind": "ANIME",
+    "title": "Anime 345",
+    "year": 2020,
+    "score": 85,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 65,
+    "complete": 1
+  },
+  {
+    "id": 1000346,
+    "kind": "ANIME",
+    "title": "Anime 346",
+    "year": 2021,
+    "score": 86,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 66,
+    "complete": 1
+  },
+  {
+    "id": 1000347,
+    "kind": "ANIME",
+    "title": "Anime 347",
+    "year": 2022,
+    "score": 87,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 67,
+    "complete": 1
+  },
+  {
+    "id": 1000348,
+    "kind": "ANIME",
+    "title": "Anime 348",
+    "year": 2023,
+    "score": 88,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 68,
+    "complete": 1
+  },
+  {
+    "id": 1000349,
+    "kind": "ANIME",
+    "title": "Anime 349",
+    "year": 2024,
+    "score": 89,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 69,
+    "complete": 1
+  },
+  {
+    "id": 1000350,
+    "kind": "ANIME",
+    "title": "Anime 350",
+    "year": 1990,
+    "score": 90,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 70,
+    "complete": 1
+  },
+  {
+    "id": 1000351,
+    "kind": "ANIME",
+    "title": "Anime 351",
+    "year": 1991,
+    "score": 91,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 71,
+    "complete": 1
+  },
+  {
+    "id": 1000352,
+    "kind": "ANIME",
+    "title": "Anime 352",
+    "year": 1992,
+    "score": 92,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 72,
+    "complete": 1
+  },
+  {
+    "id": 1000353,
+    "kind": "ANIME",
+    "title": "Anime 353",
+    "year": 1993,
+    "score": 93,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 73,
+    "complete": 1
+  },
+  {
+    "id": 1000354,
+    "kind": "ANIME",
+    "title": "Anime 354",
+    "year": 1994,
+    "score": 94,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 74,
+    "complete": 1
+  },
+  {
+    "id": 1000355,
+    "kind": "ANIME",
+    "title": "Anime 355",
+    "year": 1995,
+    "score": 95,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 75,
+    "complete": 1
+  },
+  {
+    "id": 1000356,
+    "kind": "ANIME",
+    "title": "Anime 356",
+    "year": 1996,
+    "score": 96,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 76,
+    "complete": 1
+  },
+  {
+    "id": 1000357,
+    "kind": "ANIME",
+    "title": "Anime 357",
+    "year": 1997,
+    "score": 97,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 77,
+    "complete": 1
+  },
+  {
+    "id": 1000358,
+    "kind": "ANIME",
+    "title": "Anime 358",
+    "year": 1998,
+    "score": 98,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 78,
+    "complete": 1
+  },
+  {
+    "id": 1000359,
+    "kind": "ANIME",
+    "title": "Anime 359",
+    "year": 1999,
+    "score": 99,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 79,
+    "complete": 1
+  },
+  {
+    "id": 1000360,
+    "kind": "ANIME",
+    "title": "Anime 360",
+    "year": 2000,
+    "score": 55,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 80,
+    "complete": 1
+  },
+  {
+    "id": 1000361,
+    "kind": "ANIME",
+    "title": "Anime 361",
+    "year": 2001,
+    "score": 56,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 81,
+    "complete": 1
+  },
+  {
+    "id": 1000362,
+    "kind": "ANIME",
+    "title": "Anime 362",
+    "year": 2002,
+    "score": 57,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 82,
+    "complete": 1
+  },
+  {
+    "id": 1000363,
+    "kind": "ANIME",
+    "title": "Anime 363",
+    "year": 2003,
+    "score": 58,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 83,
+    "complete": 1
+  },
+  {
+    "id": 1000364,
+    "kind": "ANIME",
+    "title": "Anime 364",
+    "year": 2004,
+    "score": 59,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 84,
+    "complete": 1
+  },
+  {
+    "id": 1000365,
+    "kind": "ANIME",
+    "title": "Anime 365",
+    "year": 2005,
+    "score": 60,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 85,
+    "complete": 1
+  },
+  {
+    "id": 1000366,
+    "kind": "ANIME",
+    "title": "Anime 366",
+    "year": 2006,
+    "score": 61,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 86,
+    "complete": 1
+  },
+  {
+    "id": 1000367,
+    "kind": "ANIME",
+    "title": "Anime 367",
+    "year": 2007,
+    "score": 62,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 87,
+    "complete": 1
+  },
+  {
+    "id": 1000368,
+    "kind": "ANIME",
+    "title": "Anime 368",
+    "year": 2008,
+    "score": 63,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 88,
+    "complete": 1
+  },
+  {
+    "id": 1000369,
+    "kind": "ANIME",
+    "title": "Anime 369",
+    "year": 2009,
+    "score": 64,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 89,
+    "complete": 1
+  },
+  {
+    "id": 1000370,
+    "kind": "ANIME",
+    "title": "Anime 370",
+    "year": 2010,
+    "score": 65,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 90,
+    "complete": 1
+  },
+  {
+    "id": 1000371,
+    "kind": "ANIME",
+    "title": "Anime 371",
+    "year": 2011,
+    "score": 66,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 91,
+    "complete": 1
+  },
+  {
+    "id": 1000372,
+    "kind": "ANIME",
+    "title": "Anime 372",
+    "year": 2012,
+    "score": 67,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 92,
+    "complete": 1
+  },
+  {
+    "id": 1000373,
+    "kind": "ANIME",
+    "title": "Anime 373",
+    "year": 2013,
+    "score": 68,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 93,
+    "complete": 1
+  },
+  {
+    "id": 1000374,
+    "kind": "ANIME",
+    "title": "Anime 374",
+    "year": 2014,
+    "score": 69,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 94,
+    "complete": 1
+  },
+  {
+    "id": 1000375,
+    "kind": "ANIME",
+    "title": "Anime 375",
+    "year": 2015,
+    "score": 70,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 95,
+    "complete": 1
+  },
+  {
+    "id": 1000376,
+    "kind": "ANIME",
+    "title": "Anime 376",
+    "year": 2016,
+    "score": 71,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 96,
+    "complete": 1
+  },
+  {
+    "id": 1000377,
+    "kind": "ANIME",
+    "title": "Anime 377",
+    "year": 2017,
+    "score": 72,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 97,
+    "complete": 1
+  },
+  {
+    "id": 1000378,
+    "kind": "ANIME",
+    "title": "Anime 378",
+    "year": 2018,
+    "score": 73,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 98,
+    "complete": 1
+  },
+  {
+    "id": 1000379,
+    "kind": "ANIME",
+    "title": "Anime 379",
+    "year": 2019,
+    "score": 74,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 99,
+    "complete": 1
+  },
+  {
+    "id": 1000380,
+    "kind": "ANIME",
+    "title": "Anime 380",
+    "year": 2020,
+    "score": 75,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 100,
+    "complete": 1
+  },
+  {
+    "id": 1000381,
+    "kind": "ANIME",
+    "title": "Anime 381",
+    "year": 2021,
+    "score": 76,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 101,
+    "complete": 1
+  },
+  {
+    "id": 1000382,
+    "kind": "ANIME",
+    "title": "Anime 382",
+    "year": 2022,
+    "score": 77,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 102,
+    "complete": 1
+  },
+  {
+    "id": 1000383,
+    "kind": "ANIME",
+    "title": "Anime 383",
+    "year": 2023,
+    "score": 78,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 103,
+    "complete": 1
+  },
+  {
+    "id": 1000384,
+    "kind": "ANIME",
+    "title": "Anime 384",
+    "year": 2024,
+    "score": 79,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 104,
+    "complete": 1
+  },
+  {
+    "id": 1000385,
+    "kind": "ANIME",
+    "title": "Anime 385",
+    "year": 1990,
+    "score": 80,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 105,
+    "complete": 1
+  },
+  {
+    "id": 1000386,
+    "kind": "ANIME",
+    "title": "Anime 386",
+    "year": 1991,
+    "score": 81,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 106,
+    "complete": 1
+  },
+  {
+    "id": 1000387,
+    "kind": "ANIME",
+    "title": "Anime 387",
+    "year": 1992,
+    "score": 82,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 107,
+    "complete": 1
+  },
+  {
+    "id": 1000388,
+    "kind": "ANIME",
+    "title": "Anime 388",
+    "year": 1993,
+    "score": 83,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 108,
+    "complete": 1
+  },
+  {
+    "id": 1000389,
+    "kind": "ANIME",
+    "title": "Anime 389",
+    "year": 1994,
+    "score": 84,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 109,
+    "complete": 1
+  },
+  {
+    "id": 1000390,
+    "kind": "ANIME",
+    "title": "Anime 390",
+    "year": 1995,
+    "score": 85,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 110,
+    "complete": 1
+  },
+  {
+    "id": 1000391,
+    "kind": "ANIME",
+    "title": "Anime 391",
+    "year": 1996,
+    "score": 86,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 111,
+    "complete": 1
+  },
+  {
+    "id": 1000392,
+    "kind": "ANIME",
+    "title": "Anime 392",
+    "year": 1997,
+    "score": 87,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 112,
+    "complete": 1
+  },
+  {
+    "id": 1000393,
+    "kind": "ANIME",
+    "title": "Anime 393",
+    "year": 1998,
+    "score": 88,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 113,
+    "complete": 1
+  },
+  {
+    "id": 1000394,
+    "kind": "ANIME",
+    "title": "Anime 394",
+    "year": 1999,
+    "score": 89,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 114,
+    "complete": 1
+  },
+  {
+    "id": 1000395,
+    "kind": "ANIME",
+    "title": "Anime 395",
+    "year": 2000,
+    "score": 90,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 115,
+    "complete": 1
+  },
+  {
+    "id": 1000396,
+    "kind": "ANIME",
+    "title": "Anime 396",
+    "year": 2001,
+    "score": 91,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 116,
+    "complete": 1
+  },
+  {
+    "id": 1000397,
+    "kind": "ANIME",
+    "title": "Anime 397",
+    "year": 2002,
+    "score": 92,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 117,
+    "complete": 1
+  },
+  {
+    "id": 1000398,
+    "kind": "ANIME",
+    "title": "Anime 398",
+    "year": 2003,
+    "score": 93,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 118,
+    "complete": 1
+  },
+  {
+    "id": 1000399,
+    "kind": "ANIME",
+    "title": "Anime 399",
+    "year": 2004,
+    "score": 94,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 119,
+    "complete": 1
+  },
+  {
+    "id": 1000400,
+    "kind": "ANIME",
+    "title": "Anime 400",
+    "year": 2005,
+    "score": 95,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 20,
+    "complete": 1
+  },
+  {
+    "id": 1000401,
+    "kind": "ANIME",
+    "title": "Anime 401",
+    "year": 2006,
+    "score": 96,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 21,
+    "complete": 1
+  },
+  {
+    "id": 1000402,
+    "kind": "ANIME",
+    "title": "Anime 402",
+    "year": 2007,
+    "score": 97,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 22,
+    "complete": 1
+  },
+  {
+    "id": 1000403,
+    "kind": "ANIME",
+    "title": "Anime 403",
+    "year": 2008,
+    "score": 98,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 23,
+    "complete": 1
+  },
+  {
+    "id": 1000404,
+    "kind": "ANIME",
+    "title": "Anime 404",
+    "year": 2009,
+    "score": 99,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 24,
+    "complete": 1
+  },
+  {
+    "id": 1000405,
+    "kind": "ANIME",
+    "title": "Anime 405",
+    "year": 2010,
+    "score": 55,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 25,
+    "complete": 1
+  },
+  {
+    "id": 1000406,
+    "kind": "ANIME",
+    "title": "Anime 406",
+    "year": 2011,
+    "score": 56,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 26,
+    "complete": 1
+  },
+  {
+    "id": 1000407,
+    "kind": "ANIME",
+    "title": "Anime 407",
+    "year": 2012,
+    "score": 57,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 27,
+    "complete": 1
+  },
+  {
+    "id": 1000408,
+    "kind": "ANIME",
+    "title": "Anime 408",
+    "year": 2013,
+    "score": 58,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 28,
+    "complete": 1
+  },
+  {
+    "id": 1000409,
+    "kind": "ANIME",
+    "title": "Anime 409",
+    "year": 2014,
+    "score": 59,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 29,
+    "complete": 1
+  },
+  {
+    "id": 1000410,
+    "kind": "ANIME",
+    "title": "Anime 410",
+    "year": 2015,
+    "score": 60,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 30,
+    "complete": 1
+  },
+  {
+    "id": 1000411,
+    "kind": "ANIME",
+    "title": "Anime 411",
+    "year": 2016,
+    "score": 61,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 31,
+    "complete": 1
+  },
+  {
+    "id": 1000412,
+    "kind": "ANIME",
+    "title": "Anime 412",
+    "year": 2017,
+    "score": 62,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 32,
+    "complete": 1
+  },
+  {
+    "id": 1000413,
+    "kind": "ANIME",
+    "title": "Anime 413",
+    "year": 2018,
+    "score": 63,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 33,
+    "complete": 1
+  },
+  {
+    "id": 1000414,
+    "kind": "ANIME",
+    "title": "Anime 414",
+    "year": 2019,
+    "score": 64,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 34,
+    "complete": 1
+  },
+  {
+    "id": 1000415,
+    "kind": "ANIME",
+    "title": "Anime 415",
+    "year": 2020,
+    "score": 65,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 35,
+    "complete": 1
+  },
+  {
+    "id": 1000416,
+    "kind": "ANIME",
+    "title": "Anime 416",
+    "year": 2021,
+    "score": 66,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 36,
+    "complete": 1
+  },
+  {
+    "id": 1000417,
+    "kind": "ANIME",
+    "title": "Anime 417",
+    "year": 2022,
+    "score": 67,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 37,
+    "complete": 1
+  },
+  {
+    "id": 1000418,
+    "kind": "ANIME",
+    "title": "Anime 418",
+    "year": 2023,
+    "score": 68,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 38,
+    "complete": 1
+  },
+  {
+    "id": 1000419,
+    "kind": "ANIME",
+    "title": "Anime 419",
+    "year": 2024,
+    "score": 69,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 39,
+    "complete": 1
+  },
+  {
+    "id": 1000420,
+    "kind": "ANIME",
+    "title": "Anime 420",
+    "year": 1990,
+    "score": 70,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 40,
+    "complete": 1
+  },
+  {
+    "id": 1000421,
+    "kind": "ANIME",
+    "title": "Anime 421",
+    "year": 1991,
+    "score": 71,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 41,
+    "complete": 1
+  },
+  {
+    "id": 1000422,
+    "kind": "ANIME",
+    "title": "Anime 422",
+    "year": 1992,
+    "score": 72,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 42,
+    "complete": 1
+  },
+  {
+    "id": 1000423,
+    "kind": "ANIME",
+    "title": "Anime 423",
+    "year": 1993,
+    "score": 73,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 43,
+    "complete": 1
+  },
+  {
+    "id": 1000424,
+    "kind": "ANIME",
+    "title": "Anime 424",
+    "year": 1994,
+    "score": 74,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 44,
+    "complete": 1
+  },
+  {
+    "id": 1000425,
+    "kind": "ANIME",
+    "title": "Anime 425",
+    "year": 1995,
+    "score": 75,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 45,
+    "complete": 1
+  },
+  {
+    "id": 1000426,
+    "kind": "ANIME",
+    "title": "Anime 426",
+    "year": 1996,
+    "score": 76,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 46,
+    "complete": 1
+  },
+  {
+    "id": 1000427,
+    "kind": "ANIME",
+    "title": "Anime 427",
+    "year": 1997,
+    "score": 77,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 47,
+    "complete": 1
+  },
+  {
+    "id": 1000428,
+    "kind": "ANIME",
+    "title": "Anime 428",
+    "year": 1998,
+    "score": 78,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 48,
+    "complete": 1
+  },
+  {
+    "id": 1000429,
+    "kind": "ANIME",
+    "title": "Anime 429",
+    "year": 1999,
+    "score": 79,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 49,
+    "complete": 1
+  },
+  {
+    "id": 1000430,
+    "kind": "ANIME",
+    "title": "Anime 430",
+    "year": 2000,
+    "score": 80,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 50,
+    "complete": 1
+  },
+  {
+    "id": 1000431,
+    "kind": "ANIME",
+    "title": "Anime 431",
+    "year": 2001,
+    "score": 81,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 51,
+    "complete": 1
+  },
+  {
+    "id": 1000432,
+    "kind": "ANIME",
+    "title": "Anime 432",
+    "year": 2002,
+    "score": 82,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 52,
+    "complete": 1
+  },
+  {
+    "id": 1000433,
+    "kind": "ANIME",
+    "title": "Anime 433",
+    "year": 2003,
+    "score": 83,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 53,
+    "complete": 1
+  },
+  {
+    "id": 1000434,
+    "kind": "ANIME",
+    "title": "Anime 434",
+    "year": 2004,
+    "score": 84,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 54,
+    "complete": 1
+  },
+  {
+    "id": 1000435,
+    "kind": "ANIME",
+    "title": "Anime 435",
+    "year": 2005,
+    "score": 85,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 55,
+    "complete": 1
+  },
+  {
+    "id": 1000436,
+    "kind": "ANIME",
+    "title": "Anime 436",
+    "year": 2006,
+    "score": 86,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 56,
+    "complete": 1
+  },
+  {
+    "id": 1000437,
+    "kind": "ANIME",
+    "title": "Anime 437",
+    "year": 2007,
+    "score": 87,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 57,
+    "complete": 1
+  },
+  {
+    "id": 1000438,
+    "kind": "ANIME",
+    "title": "Anime 438",
+    "year": 2008,
+    "score": 88,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 58,
+    "complete": 1
+  },
+  {
+    "id": 1000439,
+    "kind": "ANIME",
+    "title": "Anime 439",
+    "year": 2009,
+    "score": 89,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 59,
+    "complete": 1
+  },
+  {
+    "id": 1000440,
+    "kind": "ANIME",
+    "title": "Anime 440",
+    "year": 2010,
+    "score": 90,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 60,
+    "complete": 1
+  },
+  {
+    "id": 1000441,
+    "kind": "ANIME",
+    "title": "Anime 441",
+    "year": 2011,
+    "score": 91,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 61,
+    "complete": 1
+  },
+  {
+    "id": 1000442,
+    "kind": "ANIME",
+    "title": "Anime 442",
+    "year": 2012,
+    "score": 92,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 62,
+    "complete": 1
+  },
+  {
+    "id": 1000443,
+    "kind": "ANIME",
+    "title": "Anime 443",
+    "year": 2013,
+    "score": 93,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 63,
+    "complete": 1
+  },
+  {
+    "id": 1000444,
+    "kind": "ANIME",
+    "title": "Anime 444",
+    "year": 2014,
+    "score": 94,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 64,
+    "complete": 1
+  },
+  {
+    "id": 1000445,
+    "kind": "ANIME",
+    "title": "Anime 445",
+    "year": 2015,
+    "score": 95,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 65,
+    "complete": 1
+  },
+  {
+    "id": 1000446,
+    "kind": "ANIME",
+    "title": "Anime 446",
+    "year": 2016,
+    "score": 96,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 66,
+    "complete": 1
+  },
+  {
+    "id": 1000447,
+    "kind": "ANIME",
+    "title": "Anime 447",
+    "year": 2017,
+    "score": 97,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 67,
+    "complete": 1
+  },
+  {
+    "id": 1000448,
+    "kind": "ANIME",
+    "title": "Anime 448",
+    "year": 2018,
+    "score": 98,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 68,
+    "complete": 1
+  },
+  {
+    "id": 1000449,
+    "kind": "ANIME",
+    "title": "Anime 449",
+    "year": 2019,
+    "score": 99,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 69,
+    "complete": 1
+  },
+  {
+    "id": 1000450,
+    "kind": "ANIME",
+    "title": "Anime 450",
+    "year": 2020,
+    "score": 55,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 70,
+    "complete": 1
+  },
+  {
+    "id": 1000451,
+    "kind": "ANIME",
+    "title": "Anime 451",
+    "year": 2021,
+    "score": 56,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 71,
+    "complete": 1
+  },
+  {
+    "id": 1000452,
+    "kind": "ANIME",
+    "title": "Anime 452",
+    "year": 2022,
+    "score": 57,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 72,
+    "complete": 1
+  },
+  {
+    "id": 1000453,
+    "kind": "ANIME",
+    "title": "Anime 453",
+    "year": 2023,
+    "score": 58,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 73,
+    "complete": 1
+  },
+  {
+    "id": 1000454,
+    "kind": "ANIME",
+    "title": "Anime 454",
+    "year": 2024,
+    "score": 59,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 74,
+    "complete": 1
+  },
+  {
+    "id": 1000455,
+    "kind": "ANIME",
+    "title": "Anime 455",
+    "year": 1990,
+    "score": 60,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 75,
+    "complete": 1
+  },
+  {
+    "id": 1000456,
+    "kind": "ANIME",
+    "title": "Anime 456",
+    "year": 1991,
+    "score": 61,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 76,
+    "complete": 1
+  },
+  {
+    "id": 1000457,
+    "kind": "ANIME",
+    "title": "Anime 457",
+    "year": 1992,
+    "score": 62,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 77,
+    "complete": 1
+  },
+  {
+    "id": 1000458,
+    "kind": "ANIME",
+    "title": "Anime 458",
+    "year": 1993,
+    "score": 63,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 78,
+    "complete": 1
+  },
+  {
+    "id": 1000459,
+    "kind": "ANIME",
+    "title": "Anime 459",
+    "year": 1994,
+    "score": 64,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 79,
+    "complete": 1
+  },
+  {
+    "id": 1000460,
+    "kind": "ANIME",
+    "title": "Anime 460",
+    "year": 1995,
+    "score": 65,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 80,
+    "complete": 1
+  },
+  {
+    "id": 1000461,
+    "kind": "ANIME",
+    "title": "Anime 461",
+    "year": 1996,
+    "score": 66,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 81,
+    "complete": 1
+  },
+  {
+    "id": 1000462,
+    "kind": "ANIME",
+    "title": "Anime 462",
+    "year": 1997,
+    "score": 67,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 82,
+    "complete": 1
+  },
+  {
+    "id": 1000463,
+    "kind": "ANIME",
+    "title": "Anime 463",
+    "year": 1998,
+    "score": 68,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 83,
+    "complete": 1
+  },
+  {
+    "id": 1000464,
+    "kind": "ANIME",
+    "title": "Anime 464",
+    "year": 1999,
+    "score": 69,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 84,
+    "complete": 1
+  },
+  {
+    "id": 1000465,
+    "kind": "ANIME",
+    "title": "Anime 465",
+    "year": 2000,
+    "score": 70,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 85,
+    "complete": 1
+  },
+  {
+    "id": 1000466,
+    "kind": "ANIME",
+    "title": "Anime 466",
+    "year": 2001,
+    "score": 71,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 86,
+    "complete": 1
+  },
+  {
+    "id": 1000467,
+    "kind": "ANIME",
+    "title": "Anime 467",
+    "year": 2002,
+    "score": 72,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 87,
+    "complete": 1
+  },
+  {
+    "id": 1000468,
+    "kind": "ANIME",
+    "title": "Anime 468",
+    "year": 2003,
+    "score": 73,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 88,
+    "complete": 1
+  },
+  {
+    "id": 1000469,
+    "kind": "ANIME",
+    "title": "Anime 469",
+    "year": 2004,
+    "score": 74,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 89,
+    "complete": 1
+  },
+  {
+    "id": 1000470,
+    "kind": "ANIME",
+    "title": "Anime 470",
+    "year": 2005,
+    "score": 75,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 90,
+    "complete": 1
+  },
+  {
+    "id": 1000471,
+    "kind": "ANIME",
+    "title": "Anime 471",
+    "year": 2006,
+    "score": 76,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 91,
+    "complete": 1
+  },
+  {
+    "id": 1000472,
+    "kind": "ANIME",
+    "title": "Anime 472",
+    "year": 2007,
+    "score": 77,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 92,
+    "complete": 1
+  },
+  {
+    "id": 1000473,
+    "kind": "ANIME",
+    "title": "Anime 473",
+    "year": 2008,
+    "score": 78,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 93,
+    "complete": 1
+  },
+  {
+    "id": 1000474,
+    "kind": "ANIME",
+    "title": "Anime 474",
+    "year": 2009,
+    "score": 79,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 94,
+    "complete": 1
+  },
+  {
+    "id": 1000475,
+    "kind": "ANIME",
+    "title": "Anime 475",
+    "year": 2010,
+    "score": 80,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 95,
+    "complete": 1
+  },
+  {
+    "id": 1000476,
+    "kind": "ANIME",
+    "title": "Anime 476",
+    "year": 2011,
+    "score": 81,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 96,
+    "complete": 1
+  },
+  {
+    "id": 1000477,
+    "kind": "ANIME",
+    "title": "Anime 477",
+    "year": 2012,
+    "score": 82,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 97,
+    "complete": 1
+  },
+  {
+    "id": 1000478,
+    "kind": "ANIME",
+    "title": "Anime 478",
+    "year": 2013,
+    "score": 83,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 98,
+    "complete": 1
+  },
+  {
+    "id": 1000479,
+    "kind": "ANIME",
+    "title": "Anime 479",
+    "year": 2014,
+    "score": 84,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 99,
+    "complete": 1
+  },
+  {
+    "id": 1000480,
+    "kind": "ANIME",
+    "title": "Anime 480",
+    "year": 2015,
+    "score": 85,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 100,
+    "complete": 1
+  },
+  {
+    "id": 1000481,
+    "kind": "ANIME",
+    "title": "Anime 481",
+    "year": 2016,
+    "score": 86,
+    "tags": "[\"tag1\",\"tag4\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 101,
+    "complete": 1
+  },
+  {
+    "id": 1000482,
+    "kind": "ANIME",
+    "title": "Anime 482",
+    "year": 2017,
+    "score": 87,
+    "tags": "[\"tag2\",\"tag5\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 102,
+    "complete": 1
+  },
+  {
+    "id": 1000483,
+    "kind": "ANIME",
+    "title": "Anime 483",
+    "year": 2018,
+    "score": 88,
+    "tags": "[\"tag3\",\"tag6\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 103,
+    "complete": 1
+  },
+  {
+    "id": 1000484,
+    "kind": "ANIME",
+    "title": "Anime 484",
+    "year": 2019,
+    "score": 89,
+    "tags": "[\"tag4\",\"tag7\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 104,
+    "complete": 1
+  },
+  {
+    "id": 1000485,
+    "kind": "ANIME",
+    "title": "Anime 485",
+    "year": 2020,
+    "score": 90,
+    "tags": "[\"tag5\",\"tag8\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 105,
+    "complete": 1
+  },
+  {
+    "id": 1000486,
+    "kind": "ANIME",
+    "title": "Anime 486",
+    "year": 2021,
+    "score": 91,
+    "tags": "[\"tag6\",\"tag9\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 106,
+    "complete": 1
+  },
+  {
+    "id": 1000487,
+    "kind": "ANIME",
+    "title": "Anime 487",
+    "year": 2022,
+    "score": 92,
+    "tags": "[\"tag7\",\"tag10\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 107,
+    "complete": 1
+  },
+  {
+    "id": 1000488,
+    "kind": "ANIME",
+    "title": "Anime 488",
+    "year": 2023,
+    "score": 93,
+    "tags": "[\"tag8\",\"tag11\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 108,
+    "complete": 1
+  },
+  {
+    "id": 1000489,
+    "kind": "ANIME",
+    "title": "Anime 489",
+    "year": 2024,
+    "score": 94,
+    "tags": "[\"tag9\",\"tag12\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 109,
+    "complete": 1
+  },
+  {
+    "id": 1000490,
+    "kind": "ANIME",
+    "title": "Anime 490",
+    "year": 1990,
+    "score": 95,
+    "tags": "[\"tag10\",\"tag13\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 110,
+    "complete": 1
+  },
+  {
+    "id": 1000491,
+    "kind": "ANIME",
+    "title": "Anime 491",
+    "year": 1991,
+    "score": 96,
+    "tags": "[\"tag11\",\"tag14\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio1\"]",
+    "popularity": 111,
+    "complete": 1
+  },
+  {
+    "id": 1000492,
+    "kind": "ANIME",
+    "title": "Anime 492",
+    "year": 1992,
+    "score": 97,
+    "tags": "[\"tag12\",\"tag15\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio2\"]",
+    "popularity": 112,
+    "complete": 1
+  },
+  {
+    "id": 1000493,
+    "kind": "ANIME",
+    "title": "Anime 493",
+    "year": 1993,
+    "score": 98,
+    "tags": "[\"tag13\",\"tag16\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio3\"]",
+    "popularity": 113,
+    "complete": 1
+  },
+  {
+    "id": 1000494,
+    "kind": "ANIME",
+    "title": "Anime 494",
+    "year": 1994,
+    "score": 99,
+    "tags": "[\"tag14\",\"tag17\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio4\"]",
+    "popularity": 114,
+    "complete": 1
+  },
+  {
+    "id": 1000495,
+    "kind": "ANIME",
+    "title": "Anime 495",
+    "year": 1995,
+    "score": 55,
+    "tags": "[\"tag15\",\"tag18\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio5\"]",
+    "popularity": 115,
+    "complete": 1
+  },
+  {
+    "id": 1000496,
+    "kind": "ANIME",
+    "title": "Anime 496",
+    "year": 1996,
+    "score": 56,
+    "tags": "[\"tag16\",\"tag19\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio6\"]",
+    "popularity": 116,
+    "complete": 1
+  },
+  {
+    "id": 1000497,
+    "kind": "ANIME",
+    "title": "Anime 497",
+    "year": 1997,
+    "score": 57,
+    "tags": "[\"tag17\",\"tag0\"]",
+    "genres": "[\"Drama\"]",
+    "studios": "[\"studio7\"]",
+    "popularity": 117,
+    "complete": 1
+  },
+  {
+    "id": 1000498,
+    "kind": "ANIME",
+    "title": "Anime 498",
+    "year": 1998,
+    "score": 58,
+    "tags": "[\"tag18\",\"tag1\"]",
+    "genres": "[\"Fantasy\"]",
+    "studios": "[\"studio8\"]",
+    "popularity": 118,
+    "complete": 1
+  },
+  {
+    "id": 1000499,
+    "kind": "ANIME",
+    "title": "Anime 499",
+    "year": 1999,
+    "score": 59,
+    "tags": "[\"tag19\",\"tag2\"]",
+    "genres": "[\"Slice of Life\"]",
+    "studios": "[\"studio9\"]",
+    "popularity": 119,
+    "complete": 1
+  },
+  {
+    "id": 1000500,
+    "kind": "ANIME",
+    "title": "Anime 500",
+    "year": 2000,
+    "score": 60,
+    "tags": "[\"tag0\",\"tag3\"]",
+    "genres": "[\"Action\"]",
+    "studios": "[\"studio0\"]",
+    "popularity": 20,
+    "complete": 1
   }
 ]

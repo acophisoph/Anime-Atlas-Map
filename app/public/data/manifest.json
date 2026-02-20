@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T00:00:00.000Z",
-  "git_sha": "local",
+  "generated_at": "2026-02-20T08:16:20.533Z",
+  "git_sha": "0bebe18823acdd9029595603110c13e3f0910965",
   "counts": {
-    "media": 200,
-    "people": 200,
-    "credits": 200,
-    "relations": 199
+    "media": 10000,
+    "people": 5000,
+    "credits": 20000,
+    "relations": 9999
   },
   "build_params": {
     "TARGET_ANIME": 50000,
