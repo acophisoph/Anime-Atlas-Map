@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1000001,
+    "kind": "ANIME",
+    "title": "Title 1",
+    "year": 2001,
+    "score": 61,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 21
+  },
+  {
+    "id": 1000002,
+    "kind": "MANGA",
+    "title": "Title 2",
+    "year": 2002,
+    "score": 62,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 22
+  },
+  {
+    "id": 1000003,
+    "kind": "ANIME",
+    "title": "Title 3",
+    "year": 2003,
+    "score": 63,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 23
+  },
+  {
+    "id": 1000004,
+    "kind": "MANGA",
+    "title": "Title 4",
+    "year": 2004,
+    "score": 64,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 24
+  },
+  {
+    "id": 1000005,
+    "kind": "ANIME",
+    "title": "Title 5",
+    "year": 2005,
+    "score": 65,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 25
+  },
+  {
+    "id": 1000006,
+    "kind": "MANGA",
+    "title": "Title 6",
+    "year": 2006,
+    "score": 66,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 26
+  },
+  {
+    "id": 1000007,
+    "kind": "ANIME",
+    "title": "Title 7",
+    "year": 2007,
+    "score": 67,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 27
+  },
+  {
+    "id": 1000008,
+    "kind": "MANGA",
+    "title": "Title 8",
+    "year": 2008,
+    "score": 68,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 28
+  },
+  {
+    "id": 1000009,
+    "kind": "ANIME",
+    "title": "Title 9",
+    "year": 2009,
+    "score": 69,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 29
+  },
+  {
+    "id": 1000010,
+    "kind": "MANGA",
+    "title": "Title 10",
+    "year": 2010,
+    "score": 70,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 30
+  },
+  {
+    "id": 1000011,
+    "kind": "ANIME",
+    "title": "Title 11",
+    "year": 2011,
+    "score": 71,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 31
+  },
+  {
+    "id": 1000012,
+    "kind": "MANGA",
+    "title": "Title 12",
+    "year": 2012,
+    "score": 72,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 32
+  },
+  {
+    "id": 1000013,
+    "kind": "ANIME",
+    "title": "Title 13",
+    "year": 2013,
+    "score": 73,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 33
+  },
+  {
+    "id": 1000014,
+    "kind": "MANGA",
+    "title": "Title 14",
+    "year": 2014,
+    "score": 74,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 34
+  },
+  {
+    "id": 1000015,
+    "kind": "ANIME",
+    "title": "Title 15",
+    "year": 2015,
+    "score": 75,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 35
+  },
+  {
+    "id": 1000016,
+    "kind": "MANGA",
+    "title": "Title 16",
+    "year": 2016,
+    "score": 76,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 36
+  },
+  {
+    "id": 1000017,
+    "kind": "ANIME",
+    "title": "Title 17",
+    "year": 2017,
+    "score": 77,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 37
+  },
+  {
+    "id": 1000018,
+    "kind": "MANGA",
+    "title": "Title 18",
+    "year": 2018,
+    "score": 78,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 38
+  },
+  {
+    "id": 1000019,
+    "kind": "ANIME",
+    "title": "Title 19",
+    "year": 2019,
+    "score": 79,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 39
+  },
+  {
+    "id": 1000020,
+    "kind": "MANGA",
+    "title": "Title 20",
+    "year": 2020,
+    "score": 80,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 40
+  },
+  {
+    "id": 1000021,
+    "kind": "ANIME",
+    "title": "Title 21",
+    "year": 2021,
+    "score": 81,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 41
+  },
+  {
+    "id": 1000022,
+    "kind": "MANGA",
+    "title": "Title 22",
+    "year": 2022,
+    "score": 82,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 42
+  },
+  {
+    "id": 1000023,
+    "kind": "ANIME",
+    "title": "Title 23",
+    "year": 2023,
+    "score": 83,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 43
+  },
+  {
+    "id": 1000024,
+    "kind": "MANGA",
+    "title": "Title 24",
+    "year": 2000,
+    "score": 84,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 44
+  },
+  {
+    "id": 1000025,
+    "kind": "ANIME",
+    "title": "Title 25",
+    "year": 2001,
+    "score": 85,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 45
+  },
+  {
+    "id": 1000026,
+    "kind": "MANGA",
+    "title": "Title 26",
+    "year": 2002,
+    "score": 86,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 46
+  },
+  {
+    "id": 1000027,
+    "kind": "ANIME",
+    "title": "Title 27",
+    "year": 2003,
+    "score": 87,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 47
+  },
+  {
+    "id": 1000028,
+    "kind": "MANGA",
+    "title": "Title 28",
+    "year": 2004,
+    "score": 88,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 48
+  },
+  {
+    "id": 1000029,
+    "kind": "ANIME",
+    "title": "Title 29",
+    "year": 2005,
+    "score": 89,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 49
+  },
+  {
+    "id": 1000030,
+    "kind": "MANGA",
+    "title": "Title 30",
+    "year": 2006,
+    "score": 90,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 50
+  },
+  {
+    "id": 1000031,
+    "kind": "ANIME",
+    "title": "Title 31",
+    "year": 2007,
+    "score": 91,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 51
+  },
+  {
+    "id": 1000032,
+    "kind": "MANGA",
+    "title": "Title 32",
+    "year": 2008,
+    "score": 92,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 52
+  },
+  {
+    "id": 1000033,
+    "kind": "ANIME",
+    "title": "Title 33",
+    "year": 2009,
+    "score": 93,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 53
+  },
+  {
+    "id": 1000034,
+    "kind": "MANGA",
+    "title": "Title 34",
+    "year": 2010,
+    "score": 94,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 54
+  },
+  {
+    "id": 1000035,
+    "kind": "ANIME",
+    "title": "Title 35",
+    "year": 2011,
+    "score": 60,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 55
+  },
+  {
+    "id": 1000036,
+    "kind": "MANGA",
+    "title": "Title 36",
+    "year": 2012,
+    "score": 61,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 56
+  },
+  {
+    "id": 1000037,
+    "kind": "ANIME",
+    "title": "Title 37",
+    "year": 2013,
+    "score": 62,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 57
+  },
+  {
+    "id": 1000038,
+    "kind": "MANGA",
+    "title": "Title 38",
+    "year": 2014,
+    "score": 63,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 58
+  },
+  {
+    "id": 1000039,
+    "kind": "ANIME",
+    "title": "Title 39",
+    "year": 2015,
+    "score": 64,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 59
+  },
+  {
+    "id": 1000040,
+    "kind": "MANGA",
+    "title": "Title 40",
+    "year": 2016,
+    "score": 65,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 60
+  },
+  {
+    "id": 1000041,
+    "kind": "ANIME",
+    "title": "Title 41",
+    "year": 2017,
+    "score": 66,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 61
+  },
+  {
+    "id": 1000042,
+    "kind": "MANGA",
+    "title": "Title 42",
+    "year": 2018,
+    "score": 67,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 62
+  },
+  {
+    "id": 1000043,
+    "kind": "ANIME",
+    "title": "Title 43",
+    "year": 2019,
+    "score": 68,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 63
+  },
+  {
+    "id": 1000044,
+    "kind": "MANGA",
+    "title": "Title 44",
+    "year": 2020,
+    "score": 69,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 64
+  },
+  {
+    "id": 1000045,
+    "kind": "ANIME",
+    "title": "Title 45",
+    "year": 2021,
+    "score": 70,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 65
+  },
+  {
+    "id": 1000046,
+    "kind": "MANGA",
+    "title": "Title 46",
+    "year": 2022,
+    "score": 71,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 66
+  },
+  {
+    "id": 1000047,
+    "kind": "ANIME",
+    "title": "Title 47",
+    "year": 2023,
+    "score": 72,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 67
+  },
+  {
+    "id": 1000048,
+    "kind": "MANGA",
+    "title": "Title 48",
+    "year": 2000,
+    "score": 73,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 68
+  },
+  {
+    "id": 1000049,
+    "kind": "ANIME",
+    "title": "Title 49",
+    "year": 2001,
+    "score": 74,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 69
+  },
+  {
+    "id": 1000050,
+    "kind": "MANGA",
+    "title": "Title 50",
+    "year": 2002,
+    "score": 75,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 70
+  },
+  {
+    "id": 1000051,
+    "kind": "ANIME",
+    "title": "Title 51",
+    "year": 2003,
+    "score": 76,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 71
+  },
+  {
+    "id": 1000052,
+    "kind": "MANGA",
+    "title": "Title 52",
+    "year": 2004,
+    "score": 77,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 72
+  },
+  {
+    "id": 1000053,
+    "kind": "ANIME",
+    "title": "Title 53",
+    "year": 2005,
+    "score": 78,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 73
+  },
+  {
+    "id": 1000054,
+    "kind": "MANGA",
+    "title": "Title 54",
+    "year": 2006,
+    "score": 79,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 74
+  },
+  {
+    "id": 1000055,
+    "kind": "ANIME",
+    "title": "Title 55",
+    "year": 2007,
+    "score": 80,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 75
+  },
+  {
+    "id": 1000056,
+    "kind": "MANGA",
+    "title": "Title 56",
+    "year": 2008,
+    "score": 81,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 76
+  },
+  {
+    "id": 1000057,
+    "kind": "ANIME",
+    "title": "Title 57",
+    "year": 2009,
+    "score": 82,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 77
+  },
+  {
+    "id": 1000058,
+    "kind": "MANGA",
+    "title": "Title 58",
+    "year": 2010,
+    "score": 83,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 78
+  },
+  {
+    "id": 1000059,
+    "kind": "ANIME",
+    "title": "Title 59",
+    "year": 2011,
+    "score": 84,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 79
+  },
+  {
+    "id": 1000060,
+    "kind": "MANGA",
+    "title": "Title 60",
+    "year": 2012,
+    "score": 85,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 80
+  },
+  {
+    "id": 1000061,
+    "kind": "ANIME",
+    "title": "Title 61",
+    "year": 2013,
+    "score": 86,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 81
+  },
+  {
+    "id": 1000062,
+    "kind": "MANGA",
+    "title": "Title 62",
+    "year": 2014,
+    "score": 87,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 82
+  },
+  {
+    "id": 1000063,
+    "kind": "ANIME",
+    "title": "Title 63",
+    "year": 2015,
+    "score": 88,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 83
+  },
+  {
+    "id": 1000064,
+    "kind": "MANGA",
+    "title": "Title 64",
+    "year": 2016,
+    "score": 89,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 84
+  },
+  {
+    "id": 1000065,
+    "kind": "ANIME",
+    "title": "Title 65",
+    "year": 2017,
+    "score": 90,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 85
+  },
+  {
+    "id": 1000066,
+    "kind": "MANGA",
+    "title": "Title 66",
+    "year": 2018,
+    "score": 91,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 86
+  },
+  {
+    "id": 1000067,
+    "kind": "ANIME",
+    "title": "Title 67",
+    "year": 2019,
+    "score": 92,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 87
+  },
+  {
+    "id": 1000068,
+    "kind": "MANGA",
+    "title": "Title 68",
+    "year": 2020,
+    "score": 93,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 88
+  },
+  {
+    "id": 1000069,
+    "kind": "ANIME",
+    "title": "Title 69",
+    "year": 2021,
+    "score": 94,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 89
+  },
+  {
+    "id": 1000070,
+    "kind": "MANGA",
+    "title": "Title 70",
+    "year": 2022,
+    "score": 60,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 90
+  },
+  {
+    "id": 1000071,
+    "kind": "ANIME",
+    "title": "Title 71",
+    "year": 2023,
+    "score": 61,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 91
+  },
+  {
+    "id": 1000072,
+    "kind": "MANGA",
+    "title": "Title 72",
+    "year": 2000,
+    "score": 62,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 92
+  },
+  {
+    "id": 1000073,
+    "kind": "ANIME",
+    "title": "Title 73",
+    "year": 2001,
+    "score": 63,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 93
+  },
+  {
+    "id": 1000074,
+    "kind": "MANGA",
+    "title": "Title 74",
+    "year": 2002,
+    "score": 64,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 94
+  },
+  {
+    "id": 1000075,
+    "kind": "ANIME",
+    "title": "Title 75",
+    "year": 2003,
+    "score": 65,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 95
+  },
+  {
+    "id": 1000076,
+    "kind": "MANGA",
+    "title": "Title 76",
+    "year": 2004,
+    "score": 66,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 96
+  },
+  {
+    "id": 1000077,
+    "kind": "ANIME",
+    "title": "Title 77",
+    "year": 2005,
+    "score": 67,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 97
+  },
+  {
+    "id": 1000078,
+    "kind": "MANGA",
+    "title": "Title 78",
+    "year": 2006,
+    "score": 68,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 98
+  },
+  {
+    "id": 1000079,
+    "kind": "ANIME",
+    "title": "Title 79",
+    "year": 2007,
+    "score": 69,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 99
+  },
+  {
+    "id": 1000080,
+    "kind": "MANGA",
+    "title": "Title 80",
+    "year": 2008,
+    "score": 70,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 100
+  },
+  {
+    "id": 1000081,
+    "kind": "ANIME",
+    "title": "Title 81",
+    "year": 2009,
+    "score": 71,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 101
+  },
+  {
+    "id": 1000082,
+    "kind": "MANGA",
+    "title": "Title 82",
+    "year": 2010,
+    "score": 72,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 102
+  },
+  {
+    "id": 1000083,
+    "kind": "ANIME",
+    "title": "Title 83",
+    "year": 2011,
+    "score": 73,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 103
+  },
+  {
+    "id": 1000084,
+    "kind": "MANGA",
+    "title": "Title 84",
+    "year": 2012,
+    "score": 74,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 104
+  },
+  {
+    "id": 1000085,
+    "kind": "ANIME",
+    "title": "Title 85",
+    "year": 2013,
+    "score": 75,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 105
+  },
+  {
+    "id": 1000086,
+    "kind": "MANGA",
+    "title": "Title 86",
+    "year": 2014,
+    "score": 76,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 106
+  },
+  {
+    "id": 1000087,
+    "kind": "ANIME",
+    "title": "Title 87",
+    "year": 2015,
+    "score": 77,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 107
+  },
+  {
+    "id": 1000088,
+    "kind": "MANGA",
+    "title": "Title 88",
+    "year": 2016,
+    "score": 78,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 108
+  },
+  {
+    "id": 1000089,
+    "kind": "ANIME",
+    "title": "Title 89",
+    "year": 2017,
+    "score": 79,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 109
+  },
+  {
+    "id": 1000090,
+    "kind": "MANGA",
+    "title": "Title 90",
+    "year": 2018,
+    "score": 80,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 110
+  },
+  {
+    "id": 1000091,
+    "kind": "ANIME",
+    "title": "Title 91",
+    "year": 2019,
+    "score": 81,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 111
+  },
+  {
+    "id": 1000092,
+    "kind": "MANGA",
+    "title": "Title 92",
+    "year": 2020,
+    "score": 82,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 112
+  },
+  {
+    "id": 1000093,
+    "kind": "ANIME",
+    "title": "Title 93",
+    "year": 2021,
+    "score": 83,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 113
+  },
+  {
+    "id": 1000094,
+    "kind": "MANGA",
+    "title": "Title 94",
+    "year": 2022,
+    "score": 84,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 114
+  },
+  {
+    "id": 1000095,
+    "kind": "ANIME",
+    "title": "Title 95",
+    "year": 2023,
+    "score": 85,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 115
+  },
+  {
+    "id": 1000096,
+    "kind": "MANGA",
+    "title": "Title 96",
+    "year": 2000,
+    "score": 86,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 116
+  },
+  {
+    "id": 1000097,
+    "kind": "ANIME",
+    "title": "Title 97",
+    "year": 2001,
+    "score": 87,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 117
+  },
+  {
+    "id": 1000098,
+    "kind": "MANGA",
+    "title": "Title 98",
+    "year": 2002,
+    "score": 88,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 118
+  },
+  {
+    "id": 1000099,
+    "kind": "ANIME",
+    "title": "Title 99",
+    "year": 2003,
+    "score": 89,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 119
+  },
+  {
+    "id": 1000100,
+    "kind": "MANGA",
+    "title": "Title 100",
+    "year": 2004,
+    "score": 90,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 120
+  },
+  {
+    "id": 1000101,
+    "kind": "ANIME",
+    "title": "Title 101",
+    "year": 2005,
+    "score": 91,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 121
+  },
+  {
+    "id": 1000102,
+    "kind": "MANGA",
+    "title": "Title 102",
+    "year": 2006,
+    "score": 92,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 122
+  },
+  {
+    "id": 1000103,
+    "kind": "ANIME",
+    "title": "Title 103",
+    "year": 2007,
+    "score": 93,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 123
+  },
+  {
+    "id": 1000104,
+    "kind": "MANGA",
+    "title": "Title 104",
+    "year": 2008,
+    "score": 94,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 124
+  },
+  {
+    "id": 1000105,
+    "kind": "ANIME",
+    "title": "Title 105",
+    "year": 2009,
+    "score": 60,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 125
+  },
+  {
+    "id": 1000106,
+    "kind": "MANGA",
+    "title": "Title 106",
+    "year": 2010,
+    "score": 61,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 126
+  },
+  {
+    "id": 1000107,
+    "kind": "ANIME",
+    "title": "Title 107",
+    "year": 2011,
+    "score": 62,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 127
+  },
+  {
+    "id": 1000108,
+    "kind": "MANGA",
+    "title": "Title 108",
+    "year": 2012,
+    "score": 63,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 128
+  },
+  {
+    "id": 1000109,
+    "kind": "ANIME",
+    "title": "Title 109",
+    "year": 2013,
+    "score": 64,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 129
+  },
+  {
+    "id": 1000110,
+    "kind": "MANGA",
+    "title": "Title 110",
+    "year": 2014,
+    "score": 65,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 130
+  },
+  {
+    "id": 1000111,
+    "kind": "ANIME",
+    "title": "Title 111",
+    "year": 2015,
+    "score": 66,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 131
+  },
+  {
+    "id": 1000112,
+    "kind": "MANGA",
+    "title": "Title 112",
+    "year": 2016,
+    "score": 67,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 132
+  },
+  {
+    "id": 1000113,
+    "kind": "ANIME",
+    "title": "Title 113",
+    "year": 2017,
+    "score": 68,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 133
+  },
+  {
+    "id": 1000114,
+    "kind": "MANGA",
+    "title": "Title 114",
+    "year": 2018,
+    "score": 69,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 134
+  },
+  {
+    "id": 1000115,
+    "kind": "ANIME",
+    "title": "Title 115",
+    "year": 2019,
+    "score": 70,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 135
+  },
+  {
+    "id": 1000116,
+    "kind": "MANGA",
+    "title": "Title 116",
+    "year": 2020,
+    "score": 71,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 136
+  },
+  {
+    "id": 1000117,
+    "kind": "ANIME",
+    "title": "Title 117",
+    "year": 2021,
+    "score": 72,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 137
+  },
+  {
+    "id": 1000118,
+    "kind": "MANGA",
+    "title": "Title 118",
+    "year": 2022,
+    "score": 73,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 138
+  },
+  {
+    "id": 1000119,
+    "kind": "ANIME",
+    "title": "Title 119",
+    "year": 2023,
+    "score": 74,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 139
+  },
+  {
+    "id": 1000120,
+    "kind": "MANGA",
+    "title": "Title 120",
+    "year": 2000,
+    "score": 75,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 140
+  },
+  {
+    "id": 1000121,
+    "kind": "ANIME",
+    "title": "Title 121",
+    "year": 2001,
+    "score": 76,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 141
+  },
+  {
+    "id": 1000122,
+    "kind": "MANGA",
+    "title": "Title 122",
+    "year": 2002,
+    "score": 77,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 142
+  },
+  {
+    "id": 1000123,
+    "kind": "ANIME",
+    "title": "Title 123",
+    "year": 2003,
+    "score": 78,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 143
+  },
+  {
+    "id": 1000124,
+    "kind": "MANGA",
+    "title": "Title 124",
+    "year": 2004,
+    "score": 79,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 144
+  },
+  {
+    "id": 1000125,
+    "kind": "ANIME",
+    "title": "Title 125",
+    "year": 2005,
+    "score": 80,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 145
+  },
+  {
+    "id": 1000126,
+    "kind": "MANGA",
+    "title": "Title 126",
+    "year": 2006,
+    "score": 81,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 146
+  },
+  {
+    "id": 1000127,
+    "kind": "ANIME",
+    "title": "Title 127",
+    "year": 2007,
+    "score": 82,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 147
+  },
+  {
+    "id": 1000128,
+    "kind": "MANGA",
+    "title": "Title 128",
+    "year": 2008,
+    "score": 83,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 148
+  },
+  {
+    "id": 1000129,
+    "kind": "ANIME",
+    "title": "Title 129",
+    "year": 2009,
+    "score": 84,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 149
+  },
+  {
+    "id": 1000130,
+    "kind": "MANGA",
+    "title": "Title 130",
+    "year": 2010,
+    "score": 85,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 150
+  },
+  {
+    "id": 1000131,
+    "kind": "ANIME",
+    "title": "Title 131",
+    "year": 2011,
+    "score": 86,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 151
+  },
+  {
+    "id": 1000132,
+    "kind": "MANGA",
+    "title": "Title 132",
+    "year": 2012,
+    "score": 87,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 152
+  },
+  {
+    "id": 1000133,
+    "kind": "ANIME",
+    "title": "Title 133",
+    "year": 2013,
+    "score": 88,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 153
+  },
+  {
+    "id": 1000134,
+    "kind": "MANGA",
+    "title": "Title 134",
+    "year": 2014,
+    "score": 89,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 154
+  },
+  {
+    "id": 1000135,
+    "kind": "ANIME",
+    "title": "Title 135",
+    "year": 2015,
+    "score": 90,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 155
+  },
+  {
+    "id": 1000136,
+    "kind": "MANGA",
+    "title": "Title 136",
+    "year": 2016,
+    "score": 91,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 156
+  },
+  {
+    "id": 1000137,
+    "kind": "ANIME",
+    "title": "Title 137",
+    "year": 2017,
+    "score": 92,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 157
+  },
+  {
+    "id": 1000138,
+    "kind": "MANGA",
+    "title": "Title 138",
+    "year": 2018,
+    "score": 93,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 158
+  },
+  {
+    "id": 1000139,
+    "kind": "ANIME",
+    "title": "Title 139",
+    "year": 2019,
+    "score": 94,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 159
+  },
+  {
+    "id": 1000140,
+    "kind": "MANGA",
+    "title": "Title 140",
+    "year": 2020,
+    "score": 60,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 160
+  },
+  {
+    "id": 1000141,
+    "kind": "ANIME",
+    "title": "Title 141",
+    "year": 2021,
+    "score": 61,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 161
+  },
+  {
+    "id": 1000142,
+    "kind": "MANGA",
+    "title": "Title 142",
+    "year": 2022,
+    "score": 62,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 162
+  },
+  {
+    "id": 1000143,
+    "kind": "ANIME",
+    "title": "Title 143",
+    "year": 2023,
+    "score": 63,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 163
+  },
+  {
+    "id": 1000144,
+    "kind": "MANGA",
+    "title": "Title 144",
+    "year": 2000,
+    "score": 64,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 164
+  },
+  {
+    "id": 1000145,
+    "kind": "ANIME",
+    "title": "Title 145",
+    "year": 2001,
+    "score": 65,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 165
+  },
+  {
+    "id": 1000146,
+    "kind": "MANGA",
+    "title": "Title 146",
+    "year": 2002,
+    "score": 66,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 166
+  },
+  {
+    "id": 1000147,
+    "kind": "ANIME",
+    "title": "Title 147",
+    "year": 2003,
+    "score": 67,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 167
+  },
+  {
+    "id": 1000148,
+    "kind": "MANGA",
+    "title": "Title 148",
+    "year": 2004,
+    "score": 68,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 168
+  },
+  {
+    "id": 1000149,
+    "kind": "ANIME",
+    "title": "Title 149",
+    "year": 2005,
+    "score": 69,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 169
+  },
+  {
+    "id": 1000150,
+    "kind": "MANGA",
+    "title": "Title 150",
+    "year": 2006,
+    "score": 70,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 170
+  },
+  {
+    "id": 1000151,
+    "kind": "ANIME",
+    "title": "Title 151",
+    "year": 2007,
+    "score": 71,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 171
+  },
+  {
+    "id": 1000152,
+    "kind": "MANGA",
+    "title": "Title 152",
+    "year": 2008,
+    "score": 72,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 172
+  },
+  {
+    "id": 1000153,
+    "kind": "ANIME",
+    "title": "Title 153",
+    "year": 2009,
+    "score": 73,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 173
+  },
+  {
+    "id": 1000154,
+    "kind": "MANGA",
+    "title": "Title 154",
+    "year": 2010,
+    "score": 74,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 174
+  },
+  {
+    "id": 1000155,
+    "kind": "ANIME",
+    "title": "Title 155",
+    "year": 2011,
+    "score": 75,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 175
+  },
+  {
+    "id": 1000156,
+    "kind": "MANGA",
+    "title": "Title 156",
+    "year": 2012,
+    "score": 76,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 176
+  },
+  {
+    "id": 1000157,
+    "kind": "ANIME",
+    "title": "Title 157",
+    "year": 2013,
+    "score": 77,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 177
+  },
+  {
+    "id": 1000158,
+    "kind": "MANGA",
+    "title": "Title 158",
+    "year": 2014,
+    "score": 78,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 178
+  },
+  {
+    "id": 1000159,
+    "kind": "ANIME",
+    "title": "Title 159",
+    "year": 2015,
+    "score": 79,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 179
+  },
+  {
+    "id": 1000160,
+    "kind": "MANGA",
+    "title": "Title 160",
+    "year": 2016,
+    "score": 80,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 180
+  },
+  {
+    "id": 1000161,
+    "kind": "ANIME",
+    "title": "Title 161",
+    "year": 2017,
+    "score": 81,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 181
+  },
+  {
+    "id": 1000162,
+    "kind": "MANGA",
+    "title": "Title 162",
+    "year": 2018,
+    "score": 82,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 182
+  },
+  {
+    "id": 1000163,
+    "kind": "ANIME",
+    "title": "Title 163",
+    "year": 2019,
+    "score": 83,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 183
+  },
+  {
+    "id": 1000164,
+    "kind": "MANGA",
+    "title": "Title 164",
+    "year": 2020,
+    "score": 84,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 184
+  },
+  {
+    "id": 1000165,
+    "kind": "ANIME",
+    "title": "Title 165",
+    "year": 2021,
+    "score": 85,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 185
+  },
+  {
+    "id": 1000166,
+    "kind": "MANGA",
+    "title": "Title 166",
+    "year": 2022,
+    "score": 86,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 186
+  },
+  {
+    "id": 1000167,
+    "kind": "ANIME",
+    "title": "Title 167",
+    "year": 2023,
+    "score": 87,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 187
+  },
+  {
+    "id": 1000168,
+    "kind": "MANGA",
+    "title": "Title 168",
+    "year": 2000,
+    "score": 88,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 188
+  },
+  {
+    "id": 1000169,
+    "kind": "ANIME",
+    "title": "Title 169",
+    "year": 2001,
+    "score": 89,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 189
+  },
+  {
+    "id": 1000170,
+    "kind": "MANGA",
+    "title": "Title 170",
+    "year": 2002,
+    "score": 90,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 190
+  },
+  {
+    "id": 1000171,
+    "kind": "ANIME",
+    "title": "Title 171",
+    "year": 2003,
+    "score": 91,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 191
+  },
+  {
+    "id": 1000172,
+    "kind": "MANGA",
+    "title": "Title 172",
+    "year": 2004,
+    "score": 92,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 192
+  },
+  {
+    "id": 1000173,
+    "kind": "ANIME",
+    "title": "Title 173",
+    "year": 2005,
+    "score": 93,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 193
+  },
+  {
+    "id": 1000174,
+    "kind": "MANGA",
+    "title": "Title 174",
+    "year": 2006,
+    "score": 94,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 194
+  },
+  {
+    "id": 1000175,
+    "kind": "ANIME",
+    "title": "Title 175",
+    "year": 2007,
+    "score": 60,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 195
+  },
+  {
+    "id": 1000176,
+    "kind": "MANGA",
+    "title": "Title 176",
+    "year": 2008,
+    "score": 61,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 196
+  },
+  {
+    "id": 1000177,
+    "kind": "ANIME",
+    "title": "Title 177",
+    "year": 2009,
+    "score": 62,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 197
+  },
+  {
+    "id": 1000178,
+    "kind": "MANGA",
+    "title": "Title 178",
+    "year": 2010,
+    "score": 63,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 198
+  },
+  {
+    "id": 1000179,
+    "kind": "ANIME",
+    "title": "Title 179",
+    "year": 2011,
+    "score": 64,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 199
+  },
+  {
+    "id": 1000180,
+    "kind": "MANGA",
+    "title": "Title 180",
+    "year": 2012,
+    "score": 65,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 200
+  },
+  {
+    "id": 1000181,
+    "kind": "ANIME",
+    "title": "Title 181",
+    "year": 2013,
+    "score": 66,
+    "tags": [
+      "tag1",
+      "tag8"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 201
+  },
+  {
+    "id": 1000182,
+    "kind": "MANGA",
+    "title": "Title 182",
+    "year": 2014,
+    "score": 67,
+    "tags": [
+      "tag2",
+      "tag9"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 202
+  },
+  {
+    "id": 1000183,
+    "kind": "ANIME",
+    "title": "Title 183",
+    "year": 2015,
+    "score": 68,
+    "tags": [
+      "tag3",
+      "tag10"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 203
+  },
+  {
+    "id": 1000184,
+    "kind": "MANGA",
+    "title": "Title 184",
+    "year": 2016,
+    "score": 69,
+    "tags": [
+      "tag4",
+      "tag11"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 204
+  },
+  {
+    "id": 1000185,
+    "kind": "ANIME",
+    "title": "Title 185",
+    "year": 2017,
+    "score": 70,
+    "tags": [
+      "tag5",
+      "tag12"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 205
+  },
+  {
+    "id": 1000186,
+    "kind": "MANGA",
+    "title": "Title 186",
+    "year": 2018,
+    "score": 71,
+    "tags": [
+      "tag6",
+      "tag13"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 206
+  },
+  {
+    "id": 1000187,
+    "kind": "ANIME",
+    "title": "Title 187",
+    "year": 2019,
+    "score": 72,
+    "tags": [
+      "tag7",
+      "tag14"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 207
+  },
+  {
+    "id": 1000188,
+    "kind": "MANGA",
+    "title": "Title 188",
+    "year": 2020,
+    "score": 73,
+    "tags": [
+      "tag8",
+      "tag15"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 208
+  },
+  {
+    "id": 1000189,
+    "kind": "ANIME",
+    "title": "Title 189",
+    "year": 2021,
+    "score": 74,
+    "tags": [
+      "tag9",
+      "tag16"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 209
+  },
+  {
+    "id": 1000190,
+    "kind": "MANGA",
+    "title": "Title 190",
+    "year": 2022,
+    "score": 75,
+    "tags": [
+      "tag10",
+      "tag17"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 210
+  },
+  {
+    "id": 1000191,
+    "kind": "ANIME",
+    "title": "Title 191",
+    "year": 2023,
+    "score": 76,
+    "tags": [
+      "tag11",
+      "tag18"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio1"
+    ],
+    "popularity": 211
+  },
+  {
+    "id": 1000192,
+    "kind": "MANGA",
+    "title": "Title 192",
+    "year": 2000,
+    "score": 77,
+    "tags": [
+      "tag12",
+      "tag19"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio2"
+    ],
+    "popularity": 212
+  },
+  {
+    "id": 1000193,
+    "kind": "ANIME",
+    "title": "Title 193",
+    "year": 2001,
+    "score": 78,
+    "tags": [
+      "tag13",
+      "tag0"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio3"
+    ],
+    "popularity": 213
+  },
+  {
+    "id": 1000194,
+    "kind": "MANGA",
+    "title": "Title 194",
+    "year": 2002,
+    "score": 79,
+    "tags": [
+      "tag14",
+      "tag1"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio4"
+    ],
+    "popularity": 214
+  },
+  {
+    "id": 1000195,
+    "kind": "ANIME",
+    "title": "Title 195",
+    "year": 2003,
+    "score": 80,
+    "tags": [
+      "tag15",
+      "tag2"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio5"
+    ],
+    "popularity": 215
+  },
+  {
+    "id": 1000196,
+    "kind": "MANGA",
+    "title": "Title 196",
+    "year": 2004,
+    "score": 81,
+    "tags": [
+      "tag16",
+      "tag3"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio6"
+    ],
+    "popularity": 216
+  },
+  {
+    "id": 1000197,
+    "kind": "ANIME",
+    "title": "Title 197",
+    "year": 2005,
+    "score": 82,
+    "tags": [
+      "tag17",
+      "tag4"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "studios": [
+      "studio7"
+    ],
+    "popularity": 217
+  },
+  {
+    "id": 1000198,
+    "kind": "MANGA",
+    "title": "Title 198",
+    "year": 2006,
+    "score": 83,
+    "tags": [
+      "tag18",
+      "tag5"
+    ],
+    "genres": [
+      "Fantasy"
+    ],
+    "studios": [
+      "studio8"
+    ],
+    "popularity": 218
+  },
+  {
+    "id": 1000199,
+    "kind": "ANIME",
+    "title": "Title 199",
+    "year": 2007,
+    "score": 84,
+    "tags": [
+      "tag19",
+      "tag6"
+    ],
+    "genres": [
+      "Comedy"
+    ],
+    "studios": [
+      "studio9"
+    ],
+    "popularity": 219
+  },
+  {
+    "id": 1000200,
+    "kind": "MANGA",
+    "title": "Title 200",
+    "year": 2008,
+    "score": 85,
+    "tags": [
+      "tag0",
+      "tag7"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "studios": [
+      "studio0"
+    ],
+    "popularity": 220
+  }
+]

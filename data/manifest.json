@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-01-01T00:00:00.000Z",
+  "git_sha": "local",
+  "counts": {
+    "media": 200,
+    "people": 200,
+    "credits": 200,
+    "relations": 199
+  },
+  "build_params": {
+    "TARGET_ANIME": 50000,
+    "TARGET_MANGA": 50000
+  },
+  "format": "json"
+}
