@@ -1,10 +1,11 @@
 import Database from 'better-sqlite3';
 import fs from 'node:fs';
+import { fromRoot } from './paths.js';
 
-export const DB_PATH = 'scripts/.cache/anime-atlas.sqlite';
+export const DB_PATH = fromRoot('scripts', '.cache', 'anime-atlas.sqlite');
 
 export function openDb() {
-  fs.mkdirSync('scripts/.cache', { recursive: true });
+  fs.mkdirSync(fromRoot('scripts', '.cache'), { recursive: true });
   const db = new Database(DB_PATH);
   db.pragma('journal_mode = WAL');
   db.exec(`
@@ -19,9 +20,9 @@ export function openDb() {
 }
 
 export function acquireLease(db: Database.Database, owner: string, ttlSec = 1800) {
-  const now = Math.floor(Date.now()/1000);
+  const now = Math.floor(Date.now() / 1000);
   const row = db.prepare('SELECT lease_owner, lease_expires FROM checkpoint WHERE id=1').get() as any;
   if (row.lease_owner && row.lease_expires > now && row.lease_owner !== owner) return false;
-  db.prepare('UPDATE checkpoint SET lease_owner=?, lease_expires=?, updated_at=? WHERE id=1').run(owner, now+ttlSec, now);
+  db.prepare('UPDATE checkpoint SET lease_owner=?, lease_expires=?, updated_at=? WHERE id=1').run(owner, now + ttlSec, now);
   return true;
 }
