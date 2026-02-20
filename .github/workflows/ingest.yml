@@ -34,7 +34,7 @@ jobs:
           restore-keys: |
             anime-atlas-sqlite-
 
-      - run: npm ci
+      - run: npm install
       - run: npm run ingest:batched
         env:
           TIME_BUDGET_MINUTES: 270
