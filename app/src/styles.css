@@ -1,0 +1,6 @@
+body{margin:0;font-family:Inter,Arial,sans-serif;background:#0b1020;color:#e9edf5}
+.top{height:48px;display:flex;align-items:center;justify-content:space-between;padding:0 12px;background:#121a2b}
+.top button{margin-left:8px}
+.main{display:flex;height:calc(100vh - 48px)}
+.canvas{flex:1}
+.drawer{width:280px;padding:12px;background:#121a2b;border-left:1px solid #26324b}
