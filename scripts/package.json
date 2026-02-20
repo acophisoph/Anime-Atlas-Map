@@ -1,0 +1,20 @@
+{
+  "name": "anime-atlas-scripts",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ingest:batched": "tsx src/cli/ingest.ts",
+    "build:artifacts": "tsx src/cli/build-artifacts.ts",
+    "sanity:artifacts": "tsx src/cli/sanity.ts",
+    "sync:data": "tsx src/cli/sync-data.ts",
+    "db:status": "tsx src/cli/db-status.ts"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.2.1",
+    "tsx": "^4.16.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
